@@ -1,0 +1,756 @@
+ Volume in drive C is Preload
+ Volume Serial Number is 583A-3410
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM    <DIR>          EGG-INFO
+02/11/2014  07:07 PM    <DIR>          pandas
+               0 File(s)              0 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\EGG-INFO
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM                 1 dependency_links.txt
+02/11/2014  07:07 PM               189 native_libs.txt
+02/11/2014  07:07 PM                 2 not-zip-safe
+02/11/2014  07:07 PM             4,973 PKG-INFO
+02/11/2014  07:07 PM                44 requires.txt
+02/11/2014  07:07 PM            13,883 SOURCES.txt
+02/11/2014  07:07 PM                 7 top_level.txt
+               7 File(s)         19,099 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               283 algos.py
+02/11/2014  07:07 PM               606 algos.pyc
+02/11/2014  07:07 PM         1,612,800 algos.pyd
+02/11/2014  07:07 PM    <DIR>          compat
+02/11/2014  07:07 PM    <DIR>          computation
+02/11/2014  07:07 PM    <DIR>          core
+02/11/2014  07:07 PM               287 hashtable.py
+02/11/2014  07:07 PM               618 hashtable.pyc
+02/11/2014  07:07 PM           204,800 hashtable.pyd
+02/11/2014  07:07 PM               283 index.py
+02/11/2014  07:07 PM               606 index.pyc
+02/11/2014  07:07 PM           176,640 index.pyd
+02/11/2014  07:07 PM               414 info.py
+02/11/2014  07:07 PM               575 info.pyc
+02/11/2014  07:07 PM    <DIR>          io
+02/11/2014  07:07 PM               282 json.py
+02/11/2014  07:07 PM               603 json.pyc
+02/11/2014  07:07 PM            95,232 json.pyd
+02/11/2014  07:07 PM               281 lib.py
+02/11/2014  07:07 PM               600 lib.pyc
+02/11/2014  07:07 PM           618,496 lib.pyd
+02/11/2014  07:07 PM               285 msgpack.py
+02/11/2014  07:07 PM               612 msgpack.pyc
+02/11/2014  07:07 PM           104,960 msgpack.pyd
+02/11/2014  07:07 PM               284 parser.py
+02/11/2014  07:07 PM               609 parser.pyc
+02/11/2014  07:07 PM           307,200 parser.pyd
+02/11/2014  07:07 PM    <DIR>          rpy
+02/11/2014  07:07 PM    <DIR>          sandbox
+02/11/2014  07:07 PM    <DIR>          sparse
+02/11/2014  07:07 PM    <DIR>          stats
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM    <DIR>          tools
+02/11/2014  07:07 PM    <DIR>          tseries
+02/11/2014  07:07 PM               283 tslib.py
+02/11/2014  07:07 PM               606 tslib.pyc
+02/11/2014  07:07 PM           822,784 tslib.pyd
+02/11/2014  07:07 PM    <DIR>          util
+02/11/2014  07:07 PM                50 version.py
+02/11/2014  07:07 PM               238 version.pyc
+02/11/2014  07:07 PM               285 _sparse.py
+02/11/2014  07:07 PM               612 _sparse.pyc
+02/11/2014  07:07 PM           212,992 _sparse.pyd
+02/11/2014  07:07 PM               286 _testing.py
+02/11/2014  07:07 PM               615 _testing.pyc
+02/11/2014  07:07 PM            43,520 _testing.pyd
+02/11/2014  07:07 PM             1,738 __init__.py
+02/11/2014  07:07 PM             2,033 __init__.pyc
+              36 File(s)      4,213,398 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\compat
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             3,154 pickle_compat.py
+02/11/2014  07:07 PM             4,124 pickle_compat.pyc
+02/11/2014  07:07 PM             7,617 scipy.py
+02/11/2014  07:07 PM             7,854 scipy.pyc
+02/11/2014  07:07 PM            23,894 __init__.py
+02/11/2014  07:07 PM            28,286 __init__.pyc
+               6 File(s)         74,929 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\computation
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             8,170 align.py
+02/11/2014  07:07 PM             9,146 align.pyc
+02/11/2014  07:07 PM                84 api.py
+02/11/2014  07:07 PM               309 api.pyc
+02/11/2014  07:07 PM               851 common.py
+02/11/2014  07:07 PM             1,467 common.pyc
+02/11/2014  07:07 PM             3,415 engines.py
+02/11/2014  07:07 PM             5,644 engines.pyc
+02/11/2014  07:07 PM             7,749 eval.py
+02/11/2014  07:07 PM             8,023 eval.pyc
+02/11/2014  07:07 PM            29,574 expr.py
+02/11/2014  07:07 PM            35,256 expr.pyc
+02/11/2014  07:07 PM             6,839 expressions.py
+02/11/2014  07:07 PM             7,007 expressions.pyc
+02/11/2014  07:07 PM            15,509 ops.py
+02/11/2014  07:07 PM            21,124 ops.pyc
+02/11/2014  07:07 PM            20,154 pytables.py
+02/11/2014  07:07 PM            25,668 pytables.pyc
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               181 __init__.pyc
+              20 File(s)        206,170 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\computation\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM            61,239 test_eval.py
+02/11/2014  07:07 PM            67,793 test_eval.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               187 __init__.pyc
+               4 File(s)        129,219 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\core
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM            13,242 algorithms.py
+02/11/2014  07:07 PM            13,921 algorithms.pyc
+02/11/2014  07:07 PM             1,331 api.py
+02/11/2014  07:07 PM             2,014 api.pyc
+02/11/2014  07:07 PM               650 array.py
+02/11/2014  07:07 PM               957 array.pyc
+02/11/2014  07:07 PM             6,174 base.py
+02/11/2014  07:07 PM             9,871 base.pyc
+02/11/2014  07:07 PM             8,105 categorical.py
+02/11/2014  07:07 PM             9,417 categorical.pyc
+02/11/2014  07:07 PM            89,237 common.py
+02/11/2014  07:07 PM            85,535 common.pyc
+02/11/2014  07:07 PM            22,181 config.py
+02/11/2014  07:07 PM            25,052 config.pyc
+02/11/2014  07:07 PM            12,029 config_init.py
+02/11/2014  07:07 PM            10,485 config_init.pyc
+02/11/2014  07:07 PM             1,453 daterange.py
+02/11/2014  07:07 PM             1,772 daterange.pyc
+02/11/2014  07:07 PM             1,553 datetools.py
+02/11/2014  07:07 PM             1,911 datetools.pyc
+02/11/2014  07:07 PM            77,390 format.py
+02/11/2014  07:07 PM            69,450 format.pyc
+02/11/2014  07:07 PM           181,120 frame.py
+02/11/2014  07:07 PM           154,922 frame.pyc
+02/11/2014  07:07 PM           133,644 generic.py
+02/11/2014  07:07 PM           122,906 generic.pyc
+02/11/2014  07:07 PM            97,783 groupby.py
+02/11/2014  07:07 PM           103,893 groupby.pyc
+02/11/2014  07:07 PM           123,986 index.py
+02/11/2014  07:07 PM           120,706 index.pyc
+02/11/2014  07:07 PM            54,933 indexing.py
+02/11/2014  07:07 PM            42,551 indexing.pyc
+02/11/2014  07:07 PM           145,623 internals.py
+02/11/2014  07:07 PM           139,400 internals.pyc
+02/11/2014  07:07 PM                55 matrix.py
+02/11/2014  07:07 PM               254 matrix.pyc
+02/11/2014  07:07 PM            19,609 nanops.py
+02/11/2014  07:07 PM            21,497 nanops.pyc
+02/11/2014  07:07 PM            39,949 ops.py
+02/11/2014  07:07 PM            33,342 ops.pyc
+02/11/2014  07:07 PM            50,818 panel.py
+02/11/2014  07:07 PM            49,070 panel.pyc
+02/11/2014  07:07 PM             1,394 panel4d.py
+02/11/2014  07:07 PM             1,631 panel4d.pyc
+02/11/2014  07:07 PM             3,759 panelnd.py
+02/11/2014  07:07 PM             4,113 panelnd.pyc
+02/11/2014  07:07 PM            34,392 reshape.py
+02/11/2014  07:07 PM            30,982 reshape.pyc
+02/11/2014  07:07 PM            86,387 series.py
+02/11/2014  07:07 PM            85,238 series.pyc
+02/11/2014  07:07 PM               276 sparse.py
+02/11/2014  07:07 PM               505 sparse.pyc
+02/11/2014  07:07 PM            24,447 strings.py
+02/11/2014  07:07 PM            35,975 strings.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               174 __init__.pyc
+              56 File(s)      2,409,064 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               564 api.py
+02/11/2014  07:07 PM             1,126 api.pyc
+02/11/2014  07:07 PM             3,692 auth.py
+02/11/2014  07:07 PM             4,551 auth.pyc
+02/11/2014  07:07 PM             2,955 clipboard.py
+02/11/2014  07:07 PM             2,803 clipboard.pyc
+02/11/2014  07:07 PM             4,370 common.py
+02/11/2014  07:07 PM             5,376 common.pyc
+02/11/2014  07:07 PM            32,398 data.py
+02/11/2014  07:07 PM            32,086 data.pyc
+02/11/2014  07:07 PM             1,883 date_converters.py
+02/11/2014  07:07 PM             2,750 date_converters.pyc
+02/11/2014  07:07 PM            30,718 excel.py
+02/11/2014  07:07 PM            28,189 excel.pyc
+02/11/2014  07:07 PM            16,120 ga.py
+02/11/2014  07:07 PM            18,538 ga.pyc
+02/11/2014  07:07 PM            19,515 gbq.py
+02/11/2014  07:07 PM            14,961 gbq.pyc
+02/11/2014  07:07 PM            27,019 html.py
+02/11/2014  07:07 PM            30,964 html.pyc
+02/11/2014  07:07 PM            25,708 json.py
+02/11/2014  07:07 PM            24,485 json.pyc
+02/11/2014  07:07 PM            22,473 packers.py
+02/11/2014  07:07 PM            15,835 packers.pyc
+02/11/2014  07:07 PM            79,006 parsers.py
+02/11/2014  07:07 PM            62,162 parsers.pyc
+02/11/2014  07:07 PM             1,436 pickle.py
+02/11/2014  07:07 PM             1,808 pickle.pyc
+02/11/2014  07:07 PM           150,245 pytables.py
+02/11/2014  07:07 PM           147,786 pytables.pyc
+02/11/2014  07:07 PM            32,602 sql.py
+02/11/2014  07:07 PM            34,653 sql.pyc
+02/11/2014  07:07 PM            46,890 stata.py
+02/11/2014  07:07 PM            38,466 stata.pyc
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM             6,924 wb.py
+02/11/2014  07:07 PM             8,602 wb.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               172 __init__.pyc
+              38 File(s)        979,831 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM    <DIR>          data
+02/11/2014  07:07 PM             5,418 generate_legacy_pickles.py
+02/11/2014  07:07 PM             5,911 generate_legacy_pickles.pyc
+02/11/2014  07:07 PM             3,501 test_clipboard.py
+02/11/2014  07:07 PM             5,066 test_clipboard.pyc
+02/11/2014  07:07 PM            11,090 test_cparser.py
+02/11/2014  07:07 PM            14,101 test_cparser.pyc
+02/11/2014  07:07 PM            16,587 test_data.py
+02/11/2014  07:07 PM            24,015 test_data.pyc
+02/11/2014  07:07 PM             5,197 test_date_converters.py
+02/11/2014  07:07 PM             6,684 test_date_converters.pyc
+02/11/2014  07:07 PM            45,738 test_excel.py
+02/11/2014  07:07 PM            39,767 test_excel.pyc
+02/11/2014  07:07 PM             7,385 test_ga.py
+02/11/2014  07:07 PM             7,603 test_ga.pyc
+02/11/2014  07:07 PM            23,030 test_gbq.py
+02/11/2014  07:07 PM            21,698 test_gbq.pyc
+02/11/2014  07:07 PM            25,857 test_html.py
+02/11/2014  07:07 PM            36,453 test_html.pyc
+02/11/2014  07:07 PM    <DIR>          test_json
+02/11/2014  07:07 PM             8,030 test_json_norm.py
+02/11/2014  07:07 PM             7,826 test_json_norm.pyc
+02/11/2014  07:07 PM            14,918 test_packers.py
+02/11/2014  07:07 PM            22,735 test_packers.pyc
+02/11/2014  07:07 PM           108,684 test_parsers.py
+02/11/2014  07:07 PM           112,822 test_parsers.pyc
+02/11/2014  07:07 PM             3,120 test_pickle.py
+02/11/2014  07:07 PM             5,063 test_pickle.pyc
+02/11/2014  07:07 PM           161,821 test_pytables.py
+02/11/2014  07:07 PM           125,240 test_pytables.pyc
+02/11/2014  07:07 PM            24,705 test_sql.py
+02/11/2014  07:07 PM            30,666 test_sql.pyc
+02/11/2014  07:07 PM            11,415 test_stata.py
+02/11/2014  07:07 PM            11,662 test_stata.pyc
+02/11/2014  07:07 PM             2,970 test_wb.py
+02/11/2014  07:07 PM             3,683 test_wb.pyc
+02/11/2014  07:07 PM                68 __init__.py
+02/11/2014  07:07 PM               436 __init__.pyc
+              36 File(s)        960,965 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM            41,924 banklist.csv
+02/11/2014  07:07 PM           192,843 banklist.html
+02/11/2014  07:07 PM               946 gbq_fake_job.txt
+02/11/2014  07:07 PM             4,750 iris.csv
+02/11/2014  07:07 PM    <DIR>          legacy_hdf
+02/11/2014  07:07 PM    <DIR>          legacy_pickle
+02/11/2014  07:07 PM            71,835 macau.html
+02/11/2014  07:07 PM            63,362 nyse_wsj.html
+02/11/2014  07:07 PM               808 salary.table
+02/11/2014  07:07 PM            29,139 spam.html
+02/11/2014  07:07 PM             1,130 stata1.dta
+02/11/2014  07:07 PM             3,507 stata1_encoding.dta
+02/11/2014  07:07 PM             1,569 stata1_v13.dta
+02/11/2014  07:07 PM             1,786 stata2.dta
+02/11/2014  07:07 PM             2,228 stata2_v13.dta
+02/11/2014  07:07 PM            18,033 stata3.csv
+02/11/2014  07:07 PM            13,255 stata3.dta
+02/11/2014  07:07 PM            13,703 stata3_v13.dta
+02/11/2014  07:07 PM             1,713 stata4.dta
+02/11/2014  07:07 PM             2,185 stata4_v13.dta
+02/11/2014  07:07 PM            30,720 test.xls
+02/11/2014  07:07 PM            45,056 test.xlsm
+02/11/2014  07:07 PM            44,929 test.xlsx
+02/11/2014  07:07 PM               577 test1.csv
+02/11/2014  07:07 PM               437 test2.csv
+02/11/2014  07:07 PM             5,632 test2.xls
+02/11/2014  07:07 PM            28,216 test2.xlsx
+02/11/2014  07:07 PM            23,040 test3.xls
+02/11/2014  07:07 PM            26,112 test_types.xls
+02/11/2014  07:07 PM            33,769 test_types.xlsx
+02/11/2014  07:07 PM               595 unicode_series.csv
+02/11/2014  07:07 PM            11,406 utf16_ex.txt
+02/11/2014  07:07 PM             1,734 valid_markup.html
+              31 File(s)        716,939 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data\legacy_hdf
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM            14,928 legacy.h5
+02/11/2014  07:07 PM           238,321 legacy_0.10.h5
+02/11/2014  07:07 PM           211,111 legacy_table.h5
+02/11/2014  07:07 PM           293,877 legacy_table_0.11.h5
+02/11/2014  07:07 PM            74,246 pytables_native.h5
+02/11/2014  07:07 PM            12,336 pytables_native2.h5
+               6 File(s)        844,819 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data\legacy_pickle
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM    <DIR>          0.10.1
+02/11/2014  07:07 PM    <DIR>          0.11.0
+02/11/2014  07:07 PM    <DIR>          0.12.0
+02/11/2014  07:07 PM    <DIR>          0.13.0
+               0 File(s)              0 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data\legacy_pickle\0.10.1
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             4,381 AMD64_windows_2.7.3.pickle
+02/11/2014  07:07 PM             4,338 x86_64_linux_2.7.3.pickle
+               2 File(s)          8,719 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data\legacy_pickle\0.11.0
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             8,978 0.11.0_x86_64_linux_3.3.0.pickle
+02/11/2014  07:07 PM             4,338 x86_64_linux_2.7.3.pickle
+02/11/2014  07:07 PM             5,822 x86_64_linux_3.3.0.pickle
+               3 File(s)         19,138 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data\legacy_pickle\0.12.0
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             8,692 0.12.0_AMD64_windows_2.7.3.pickle
+02/11/2014  07:07 PM             8,768 0.12.0_x86_64_linux_2.7.3.pickle
+               2 File(s)         17,460 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\data\legacy_pickle\0.13.0
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             7,208 0.13.0_AMD64_windows_2.7.3.pickle
+02/11/2014  07:07 PM             7,143 0.13.0_i686_linux_2.6.5.pickle
+02/11/2014  07:07 PM             7,123 0.13.0_i686_linux_2.7.3.pickle
+02/11/2014  07:07 PM            10,019 0.13.0_i686_linux_3.2.3.pickle
+02/11/2014  07:07 PM             7,278 0.13.0_x86_64_darwin_2.7.5.pickle
+02/11/2014  07:07 PM             7,278 0.13.0_x86_64_linux_2.7.3.pickle
+02/11/2014  07:07 PM            10,049 0.13.0_x86_64_linux_3.3.0.pickle
+               7 File(s)         56,098 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\test_json
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM    <DIR>          data
+02/11/2014  07:07 PM            24,991 test_pandas.py
+02/11/2014  07:07 PM            24,044 test_pandas.pyc
+02/11/2014  07:07 PM            55,410 test_ujson.py
+02/11/2014  07:07 PM            70,809 test_ujson.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               188 __init__.pyc
+               6 File(s)        175,442 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\io\tests\test_json\data
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               948 tsframe_iso_v012.json
+02/11/2014  07:07 PM             1,081 tsframe_v012.json
+               2 File(s)          2,029 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\rpy
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               214 base.py
+02/11/2014  07:07 PM               782 base.pyc
+02/11/2014  07:07 PM             9,612 common.py
+02/11/2014  07:07 PM            11,053 common.pyc
+02/11/2014  07:07 PM                30 mass.py
+02/11/2014  07:07 PM               401 mass.pyc
+02/11/2014  07:07 PM               436 vars.py
+02/11/2014  07:07 PM             1,006 vars.pyc
+02/11/2014  07:07 PM                84 __init__.py
+02/11/2014  07:07 PM               315 __init__.pyc
+              10 File(s)         23,933 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\sandbox
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             4,220 qtpandas.py
+02/11/2014  07:07 PM             6,570 qtpandas.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               177 __init__.pyc
+               4 File(s)         10,967 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\sparse
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               274 api.py
+02/11/2014  07:07 PM               550 api.pyc
+02/11/2014  07:07 PM            16,493 array.py
+02/11/2014  07:07 PM            18,101 array.pyc
+02/11/2014  07:07 PM            30,465 frame.py
+02/11/2014  07:07 PM            27,778 frame.pyc
+02/11/2014  07:07 PM             3,837 list.py
+02/11/2014  07:07 PM             6,193 list.pyc
+02/11/2014  07:07 PM            18,967 panel.py
+02/11/2014  07:07 PM            20,411 panel.pyc
+02/11/2014  07:07 PM            22,418 series.py
+02/11/2014  07:07 PM            21,887 series.pyc
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               176 __init__.pyc
+              14 File(s)        187,550 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\sparse\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             6,197 test_array.py
+02/11/2014  07:07 PM             9,896 test_array.pyc
+02/11/2014  07:07 PM            11,658 test_libsparse.py
+02/11/2014  07:07 PM            13,526 test_libsparse.pyc
+02/11/2014  07:07 PM             3,107 test_list.py
+02/11/2014  07:07 PM             4,679 test_list.pyc
+02/11/2014  07:07 PM            62,230 test_sparse.py
+02/11/2014  07:07 PM            74,491 test_sparse.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               182 __init__.pyc
+              10 File(s)        185,966 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\stats
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               226 api.py
+02/11/2014  07:07 PM               427 api.pyc
+02/11/2014  07:07 PM             1,222 common.py
+02/11/2014  07:07 PM             1,850 common.pyc
+02/11/2014  07:07 PM             6,966 fama_macbeth.py
+02/11/2014  07:07 PM             9,534 fama_macbeth.pyc
+02/11/2014  07:07 PM             4,641 interface.py
+02/11/2014  07:07 PM             4,491 interface.pyc
+02/11/2014  07:07 PM             3,383 math.py
+02/11/2014  07:07 PM             4,343 math.pyc
+02/11/2014  07:07 PM             8,335 misc.py
+02/11/2014  07:07 PM            10,155 misc.pyc
+02/11/2014  07:07 PM            29,202 moments.py
+02/11/2014  07:07 PM            31,838 moments.pyc
+02/11/2014  07:07 PM            41,318 ols.py
+02/11/2014  07:07 PM            48,620 ols.pyc
+02/11/2014  07:07 PM            24,619 plm.py
+02/11/2014  07:07 PM            25,809 plm.pyc
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM            16,914 var.py
+02/11/2014  07:07 PM            22,213 var.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               175 __init__.pyc
+              22 File(s)        296,281 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\stats\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             4,538 common.py
+02/11/2014  07:07 PM             5,346 common.pyc
+02/11/2014  07:07 PM             2,153 test_fama_macbeth.py
+02/11/2014  07:07 PM             3,028 test_fama_macbeth.pyc
+02/11/2014  07:07 PM             1,988 test_math.py
+02/11/2014  07:07 PM             3,535 test_math.pyc
+02/11/2014  07:07 PM            32,359 test_moments.py
+02/11/2014  07:07 PM            37,743 test_moments.pyc
+02/11/2014  07:07 PM            31,700 test_ols.py
+02/11/2014  07:07 PM            37,428 test_ols.pyc
+02/11/2014  07:07 PM             5,199 test_var.py
+02/11/2014  07:07 PM            10,122 test_var.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               181 __init__.pyc
+              14 File(s)        175,320 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM    <DIR>          data
+02/11/2014  07:07 PM             7,957 test_algos.py
+02/11/2014  07:07 PM            10,131 test_algos.pyc
+02/11/2014  07:07 PM             4,570 test_base.py
+02/11/2014  07:07 PM             7,532 test_base.pyc
+02/11/2014  07:07 PM             6,868 test_categorical.py
+02/11/2014  07:07 PM             7,548 test_categorical.pyc
+02/11/2014  07:07 PM            32,182 test_common.py
+02/11/2014  07:07 PM            36,404 test_common.pyc
+02/11/2014  07:07 PM             2,414 test_compat.py
+02/11/2014  07:07 PM             3,720 test_compat.pyc
+02/11/2014  07:07 PM            16,372 test_config.py
+02/11/2014  07:07 PM            14,956 test_config.pyc
+02/11/2014  07:07 PM            13,990 test_expressions.py
+02/11/2014  07:07 PM            15,346 test_expressions.pyc
+02/11/2014  07:07 PM            84,295 test_format.py
+02/11/2014  07:07 PM            95,392 test_format.pyc
+02/11/2014  07:07 PM           489,866 test_frame.py
+02/11/2014  07:07 PM           461,700 test_frame.pyc
+02/11/2014  07:07 PM            32,616 test_generic.py
+02/11/2014  07:07 PM            39,136 test_generic.pyc
+02/11/2014  07:07 PM            42,856 test_graphics.py
+02/11/2014  07:07 PM            49,298 test_graphics.pyc
+02/11/2014  07:07 PM           133,835 test_groupby.py
+02/11/2014  07:07 PM           173,924 test_groupby.pyc
+02/11/2014  07:07 PM            95,661 test_index.py
+02/11/2014  07:07 PM           100,737 test_index.pyc
+02/11/2014  07:07 PM           100,706 test_indexing.py
+02/11/2014  07:07 PM           101,004 test_indexing.pyc
+02/11/2014  07:07 PM            21,321 test_internals.py
+02/11/2014  07:07 PM            29,439 test_internals.pyc
+02/11/2014  07:07 PM    <DIR>          test_msgpack
+02/11/2014  07:07 PM            69,533 test_multilevel.py
+02/11/2014  07:07 PM            76,567 test_multilevel.pyc
+02/11/2014  07:07 PM            84,046 test_panel.py
+02/11/2014  07:07 PM            91,854 test_panel.pyc
+02/11/2014  07:07 PM            37,780 test_panel4d.py
+02/11/2014  07:07 PM            40,046 test_panel4d.pyc
+02/11/2014  07:07 PM             3,884 test_panelnd.py
+02/11/2014  07:07 PM             3,858 test_panelnd.pyc
+02/11/2014  07:07 PM            15,552 test_reshape.py
+02/11/2014  07:07 PM            14,132 test_reshape.pyc
+02/11/2014  07:07 PM            11,759 test_rplot.py
+02/11/2014  07:07 PM            16,260 test_rplot.pyc
+02/11/2014  07:07 PM           195,765 test_series.py
+02/11/2014  07:07 PM           202,177 test_series.pyc
+02/11/2014  07:07 PM             3,973 test_stats.py
+02/11/2014  07:07 PM             4,618 test_stats.pyc
+02/11/2014  07:07 PM            37,787 test_strings.py
+02/11/2014  07:07 PM            35,429 test_strings.pyc
+02/11/2014  07:07 PM             6,251 test_testing.py
+02/11/2014  07:07 PM             8,415 test_testing.pyc
+02/11/2014  07:07 PM            24,047 test_tseries.py
+02/11/2014  07:07 PM            31,010 test_tseries.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               175 __init__.pyc
+              54 File(s)      3,246,694 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tests\data
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             4,750 iris.csv
+02/11/2014  07:07 PM               670 mindex_073.pickle
+02/11/2014  07:07 PM             1,101 multiindex_v1.pickle
+02/11/2014  07:07 PM             8,188 tips.csv
+02/11/2014  07:07 PM               595 unicode_series.csv
+               5 File(s)         15,304 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tests\test_msgpack
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               282 test_buffer.py
+02/11/2014  07:07 PM               727 test_buffer.pyc
+02/11/2014  07:07 PM             2,739 test_case.py
+02/11/2014  07:07 PM             6,110 test_case.pyc
+02/11/2014  07:07 PM             1,072 test_except.py
+02/11/2014  07:07 PM             2,213 test_except.pyc
+02/11/2014  07:07 PM             2,177 test_format.py
+02/11/2014  07:07 PM             3,668 test_format.pyc
+02/11/2014  07:07 PM             2,438 test_obj.py
+02/11/2014  07:07 PM             6,641 test_obj.pyc
+02/11/2014  07:07 PM             4,963 test_pack.py
+02/11/2014  07:07 PM             8,679 test_pack.pyc
+02/11/2014  07:07 PM             1,927 test_read_size.py
+02/11/2014  07:07 PM             3,255 test_read_size.pyc
+02/11/2014  07:07 PM             1,483 test_seq.py
+02/11/2014  07:07 PM             1,573 test_seq.pyc
+02/11/2014  07:07 PM             3,007 test_sequnpack.py
+02/11/2014  07:07 PM             3,829 test_sequnpack.pyc
+02/11/2014  07:07 PM               440 test_subtype.py
+02/11/2014  07:07 PM             1,514 test_subtype.pyc
+02/11/2014  07:07 PM               857 test_unpack_raw.py
+02/11/2014  07:07 PM             1,534 test_unpack_raw.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               188 __init__.pyc
+              24 File(s)         61,316 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tools
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               345 describe.py
+02/11/2014  07:07 PM               720 describe.pyc
+02/11/2014  07:07 PM            52,521 merge.py
+02/11/2014  07:07 PM            43,418 merge.pyc
+02/11/2014  07:07 PM            12,981 pivot.py
+02/11/2014  07:07 PM            11,394 pivot.pyc
+02/11/2014  07:07 PM            87,261 plotting.py
+02/11/2014  07:07 PM            82,455 plotting.pyc
+02/11/2014  07:07 PM            29,545 rplot.py
+02/11/2014  07:07 PM            34,146 rplot.pyc
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM             8,644 tile.py
+02/11/2014  07:07 PM             8,426 tile.pyc
+02/11/2014  07:07 PM               819 util.py
+02/11/2014  07:07 PM             1,550 util.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               175 __init__.pyc
+              16 File(s)        374,400 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tools\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM            33,254 cut_data.csv
+02/11/2014  07:07 PM            76,643 test_merge.py
+02/11/2014  07:07 PM            79,131 test_merge.pyc
+02/11/2014  07:07 PM            18,571 test_pivot.py
+02/11/2014  07:07 PM            20,440 test_pivot.pyc
+02/11/2014  07:07 PM             7,821 test_tile.py
+02/11/2014  07:07 PM            12,772 test_tile.pyc
+02/11/2014  07:07 PM               552 test_tools.py
+02/11/2014  07:07 PM             1,232 test_tools.pyc
+02/11/2014  07:07 PM             2,768 test_util.py
+02/11/2014  07:07 PM             4,157 test_util.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               181 __init__.pyc
+              13 File(s)        257,522 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tseries
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               386 api.py
+02/11/2014  07:07 PM               809 api.pyc
+02/11/2014  07:07 PM            33,999 converter.py
+02/11/2014  07:07 PM            32,021 converter.pyc
+02/11/2014  07:07 PM            29,237 frequencies.py
+02/11/2014  07:07 PM            29,957 frequencies.pyc
+02/11/2014  07:07 PM            68,451 index.py
+02/11/2014  07:07 PM            62,968 index.pyc
+02/11/2014  07:07 PM               688 interval.py
+02/11/2014  07:07 PM             2,105 interval.pyc
+02/11/2014  07:07 PM            59,277 offsets.py
+02/11/2014  07:07 PM            69,586 offsets.pyc
+02/11/2014  07:07 PM            48,077 period.py
+02/11/2014  07:07 PM            50,697 period.pyc
+02/11/2014  07:07 PM             8,410 plotting.py
+02/11/2014  07:07 PM             8,500 plotting.pyc
+02/11/2014  07:07 PM            13,594 resample.py
+02/11/2014  07:07 PM            11,805 resample.pyc
+02/11/2014  07:07 PM    <DIR>          tests
+02/11/2014  07:07 PM             6,569 timedeltas.py
+02/11/2014  07:07 PM             6,967 timedeltas.pyc
+02/11/2014  07:07 PM            20,294 tools.py
+02/11/2014  07:07 PM            18,211 tools.pyc
+02/11/2014  07:07 PM             3,076 util.py
+02/11/2014  07:07 PM             3,619 util.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               177 __init__.pyc
+              26 File(s)        589,480 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tseries\tests
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM    <DIR>          data
+02/11/2014  07:07 PM             1,629 test_converter.py
+02/11/2014  07:07 PM             3,040 test_converter.pyc
+02/11/2014  07:07 PM            22,282 test_daterange.py
+02/11/2014  07:07 PM            27,858 test_daterange.pyc
+02/11/2014  07:07 PM             9,145 test_frequencies.py
+02/11/2014  07:07 PM            14,226 test_frequencies.pyc
+02/11/2014  07:07 PM           111,304 test_offsets.py
+02/11/2014  07:07 PM           105,524 test_offsets.pyc
+02/11/2014  07:07 PM            94,489 test_period.py
+02/11/2014  07:07 PM            92,511 test_period.pyc
+02/11/2014  07:07 PM            34,035 test_plotting.py
+02/11/2014  07:07 PM            40,682 test_plotting.pyc
+02/11/2014  07:07 PM            44,449 test_resample.py
+02/11/2014  07:07 PM            55,133 test_resample.pyc
+02/11/2014  07:07 PM            12,740 test_timedeltas.py
+02/11/2014  07:07 PM            12,100 test_timedeltas.pyc
+02/11/2014  07:07 PM           118,466 test_timeseries.py
+02/11/2014  07:07 PM           132,390 test_timeseries.pyc
+02/11/2014  07:07 PM            10,598 test_timeseries_legacy.py
+02/11/2014  07:07 PM            15,049 test_timeseries_legacy.pyc
+02/11/2014  07:07 PM            35,797 test_timezones.py
+02/11/2014  07:07 PM            41,319 test_timezones.pyc
+02/11/2014  07:07 PM            12,327 test_tslib.py
+02/11/2014  07:07 PM            13,169 test_tslib.pyc
+02/11/2014  07:07 PM             3,349 test_util.py
+02/11/2014  07:07 PM             5,229 test_util.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               183 __init__.pyc
+              28 File(s)      1,069,023 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\tseries\tests\data
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM               650 daterange_073.pickle
+02/11/2014  07:07 PM             1,182 frame.pickle
+02/11/2014  07:07 PM               646 series.pickle
+02/11/2014  07:07 PM               357 series_daterange0.pickle
+               4 File(s)          2,835 bytes
+
+ Directory of c:\Python27\Lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg\pandas\util
+
+02/11/2014  07:07 PM    <DIR>          .
+02/11/2014  07:07 PM    <DIR>          ..
+02/11/2014  07:07 PM             6,531 clipboard.py
+02/11/2014  07:07 PM             5,540 clipboard.pyc
+02/11/2014  07:07 PM             5,931 decorators.py
+02/11/2014  07:07 PM             8,284 decorators.pyc
+02/11/2014  07:07 PM               254 misc.py
+02/11/2014  07:07 PM               780 misc.pyc
+02/11/2014  07:07 PM             4,581 print_versions.py
+02/11/2014  07:07 PM             8,642 print_versions.pyc
+02/11/2014  07:07 PM             3,680 terminal.py
+02/11/2014  07:07 PM             3,951 terminal.pyc
+02/11/2014  07:07 PM            46,874 testing.py
+02/11/2014  07:07 PM            54,562 testing.pyc
+02/11/2014  07:07 PM                 0 __init__.py
+02/11/2014  07:07 PM               174 __init__.pyc
+              14 File(s)        149,784 bytes
+
+     Total Files Listed:
+             520 File(s)     17,479,694 bytes
+              98 Dir(s)   9,707,986,944 bytes free
