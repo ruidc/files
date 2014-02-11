@@ -1,0 +1,614 @@
+running install
+running bdist_egg
+running egg_info
+writing requirements to pandas.egg-info\requires.txt
+writing pandas.egg-info\PKG-INFO
+writing top-level names to pandas.egg-info\top_level.txt
+writing dependency_links to pandas.egg-info\dependency_links.txt
+reading manifest file 'pandas.egg-info\SOURCES.txt'
+reading manifest template 'MANIFEST.in'
+setup.py:220: UserWarning: WARNING: Couldn't get git revision, using existing pandas/version.py
+  warnings.warn("WARNING: Couldn't get git revision, using existing pandas/version.py")
+warning: no files found matching 'README.rst'
+no previously-included directories found matching 'doc\build'
+warning: no previously-included files matching '*.so' found anywhere in distribution
+warning: no previously-included files matching '.DS_Store' found anywhere in distribution
+writing manifest file 'pandas.egg-info\SOURCES.txt'
+installing library code to build\bdist.win32\egg
+running install_lib
+running build_py
+running build_ext
+skipping 'pandas\index.c' Cython extension (up-to-date)
+skipping 'pandas\algos.c' Cython extension (up-to-date)
+skipping 'pandas\lib.c' Cython extension (up-to-date)
+skipping 'pandas\tslib.c' Cython extension (up-to-date)
+skipping 'pandas\parser.c' Cython extension (up-to-date)
+skipping 'pandas\hashtable.c' Cython extension (up-to-date)
+skipping 'pandas\src\sparse.c' Cython extension (up-to-date)
+skipping 'pandas\src\testing.c' Cython extension (up-to-date)
+skipping 'pandas\msgpack.cpp' Cython extension (up-to-date)
+creating build\bdist.win32
+creating build\bdist.win32\egg
+creating build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\algos.pyd -> build\bdist.win32\egg\pandas
+creating build\bdist.win32\egg\pandas\compat
+copying build\lib.win32-2.7\pandas\compat\pickle_compat.py -> build\bdist.win32\egg\pandas\compat
+copying build\lib.win32-2.7\pandas\compat\scipy.py -> build\bdist.win32\egg\pandas\compat
+copying build\lib.win32-2.7\pandas\compat\__init__.py -> build\bdist.win32\egg\pandas\compat
+creating build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\align.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\api.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\common.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\engines.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\eval.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\expr.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\expressions.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\ops.py -> build\bdist.win32\egg\pandas\computation
+copying build\lib.win32-2.7\pandas\computation\pytables.py -> build\bdist.win32\egg\pandas\computation
+creating build\bdist.win32\egg\pandas\computation\tests
+copying build\lib.win32-2.7\pandas\computation\tests\test_eval.py -> build\bdist.win32\egg\pandas\computation\tests
+copying build\lib.win32-2.7\pandas\computation\tests\__init__.py -> build\bdist.win32\egg\pandas\computation\tests
+copying build\lib.win32-2.7\pandas\computation\__init__.py -> build\bdist.win32\egg\pandas\computation
+creating build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\algorithms.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\api.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\array.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\base.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\categorical.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\common.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\config.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\config_init.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\daterange.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\datetools.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\format.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\frame.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\generic.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\groupby.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\index.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\indexing.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\internals.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\matrix.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\nanops.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\ops.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\panel.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\panel4d.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\panelnd.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\reshape.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\series.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\sparse.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\strings.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\core\__init__.py -> build\bdist.win32\egg\pandas\core
+copying build\lib.win32-2.7\pandas\hashtable.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\index.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\info.py -> build\bdist.win32\egg\pandas
+creating build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\api.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\auth.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\clipboard.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\common.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\data.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\date_converters.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\excel.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\ga.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\gbq.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\html.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\json.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\packers.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\parsers.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\pickle.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\pytables.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\sql.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\stata.py -> build\bdist.win32\egg\pandas\io
+creating build\bdist.win32\egg\pandas\io\tests
+creating build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\banklist.csv -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\banklist.html -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\gbq_fake_job.txt -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\iris.csv -> build\bdist.win32\egg\pandas\io\tests\data
+creating build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf\legacy.h5 -> build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf\legacy_0.10.h5 -> build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf\legacy_table.h5 -> build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf\legacy_table_0.11.h5 -> build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf\pytables_native.h5 -> build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf\pytables_native2.h5 -> build\bdist.win32\egg\pandas\io\tests\data\legacy_hdf
+creating build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle
+creating build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.10.1
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.10.1\AMD64_windows_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.10.1
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.10.1\x86_64_linux_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.10.1
+creating build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.11.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0\0.11.0_x86_64_linux_3.3.0.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.11.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0\x86_64_linux_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.11.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0\x86_64_linux_3.3.0.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.11.0
+creating build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.12.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.12.0\0.12.0_AMD64_windows_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.12.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.12.0\0.12.0_x86_64_linux_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.12.0
+creating build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_AMD64_windows_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_i686_linux_2.6.5.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_i686_linux_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_i686_linux_3.2.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_x86_64_darwin_2.7.5.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_x86_64_linux_2.7.3.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_x86_64_linux_3.3.0.pickle -> build\bdist.win32\egg\pandas\io\tests\data\legacy_pickle\0.13.0
+copying build\lib.win32-2.7\pandas\io\tests\data\macau.html -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\nyse_wsj.html -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\salary.table -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\spam.html -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata1.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata1_encoding.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata1_v13.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata2.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata2_v13.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata3.csv -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata3.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata3_v13.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata4.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\stata4_v13.dta -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test.xls -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test.xlsm -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test.xlsx -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test1.csv -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test2.csv -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test2.xls -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test2.xlsx -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test3.xls -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test_types.xls -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\test_types.xlsx -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\unicode_series.csv -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\utf16_ex.txt -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\data\valid_markup.html -> build\bdist.win32\egg\pandas\io\tests\data
+copying build\lib.win32-2.7\pandas\io\tests\generate_legacy_pickles.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_clipboard.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_cparser.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_data.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_date_converters.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_excel.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_ga.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_gbq.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_html.py -> build\bdist.win32\egg\pandas\io\tests
+creating build\bdist.win32\egg\pandas\io\tests\test_json
+creating build\bdist.win32\egg\pandas\io\tests\test_json\data
+copying build\lib.win32-2.7\pandas\io\tests\test_json\data\tsframe_iso_v012.json -> build\bdist.win32\egg\pandas\io\tests\test_json\data
+copying build\lib.win32-2.7\pandas\io\tests\test_json\data\tsframe_v012.json -> build\bdist.win32\egg\pandas\io\tests\test_json\data
+copying build\lib.win32-2.7\pandas\io\tests\test_json\test_pandas.py -> build\bdist.win32\egg\pandas\io\tests\test_json
+copying build\lib.win32-2.7\pandas\io\tests\test_json\test_ujson.py -> build\bdist.win32\egg\pandas\io\tests\test_json
+copying build\lib.win32-2.7\pandas\io\tests\test_json\__init__.py -> build\bdist.win32\egg\pandas\io\tests\test_json
+copying build\lib.win32-2.7\pandas\io\tests\test_json_norm.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_packers.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_parsers.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_pickle.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_pytables.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_sql.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_stata.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\test_wb.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\tests\__init__.py -> build\bdist.win32\egg\pandas\io\tests
+copying build\lib.win32-2.7\pandas\io\wb.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\io\__init__.py -> build\bdist.win32\egg\pandas\io
+copying build\lib.win32-2.7\pandas\json.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\lib.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\msgpack.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\parser.pyd -> build\bdist.win32\egg\pandas
+creating build\bdist.win32\egg\pandas\rpy
+copying build\lib.win32-2.7\pandas\rpy\base.py -> build\bdist.win32\egg\pandas\rpy
+copying build\lib.win32-2.7\pandas\rpy\common.py -> build\bdist.win32\egg\pandas\rpy
+copying build\lib.win32-2.7\pandas\rpy\mass.py -> build\bdist.win32\egg\pandas\rpy
+copying build\lib.win32-2.7\pandas\rpy\vars.py -> build\bdist.win32\egg\pandas\rpy
+copying build\lib.win32-2.7\pandas\rpy\__init__.py -> build\bdist.win32\egg\pandas\rpy
+creating build\bdist.win32\egg\pandas\sandbox
+copying build\lib.win32-2.7\pandas\sandbox\qtpandas.py -> build\bdist.win32\egg\pandas\sandbox
+copying build\lib.win32-2.7\pandas\sandbox\__init__.py -> build\bdist.win32\egg\pandas\sandbox
+creating build\bdist.win32\egg\pandas\sparse
+copying build\lib.win32-2.7\pandas\sparse\api.py -> build\bdist.win32\egg\pandas\sparse
+copying build\lib.win32-2.7\pandas\sparse\array.py -> build\bdist.win32\egg\pandas\sparse
+copying build\lib.win32-2.7\pandas\sparse\frame.py -> build\bdist.win32\egg\pandas\sparse
+copying build\lib.win32-2.7\pandas\sparse\list.py -> build\bdist.win32\egg\pandas\sparse
+copying build\lib.win32-2.7\pandas\sparse\panel.py -> build\bdist.win32\egg\pandas\sparse
+copying build\lib.win32-2.7\pandas\sparse\series.py -> build\bdist.win32\egg\pandas\sparse
+creating build\bdist.win32\egg\pandas\sparse\tests
+copying build\lib.win32-2.7\pandas\sparse\tests\test_array.py -> build\bdist.win32\egg\pandas\sparse\tests
+copying build\lib.win32-2.7\pandas\sparse\tests\test_libsparse.py -> build\bdist.win32\egg\pandas\sparse\tests
+copying build\lib.win32-2.7\pandas\sparse\tests\test_list.py -> build\bdist.win32\egg\pandas\sparse\tests
+copying build\lib.win32-2.7\pandas\sparse\tests\test_sparse.py -> build\bdist.win32\egg\pandas\sparse\tests
+copying build\lib.win32-2.7\pandas\sparse\tests\__init__.py -> build\bdist.win32\egg\pandas\sparse\tests
+copying build\lib.win32-2.7\pandas\sparse\__init__.py -> build\bdist.win32\egg\pandas\sparse
+creating build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\api.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\common.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\fama_macbeth.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\interface.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\math.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\misc.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\moments.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\ols.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\plm.py -> build\bdist.win32\egg\pandas\stats
+creating build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\common.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\test_fama_macbeth.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\test_math.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\test_moments.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\test_ols.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\test_var.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\tests\__init__.py -> build\bdist.win32\egg\pandas\stats\tests
+copying build\lib.win32-2.7\pandas\stats\var.py -> build\bdist.win32\egg\pandas\stats
+copying build\lib.win32-2.7\pandas\stats\__init__.py -> build\bdist.win32\egg\pandas\stats
+creating build\bdist.win32\egg\pandas\tests
+creating build\bdist.win32\egg\pandas\tests\data
+copying build\lib.win32-2.7\pandas\tests\data\iris.csv -> build\bdist.win32\egg\pandas\tests\data
+copying build\lib.win32-2.7\pandas\tests\data\mindex_073.pickle -> build\bdist.win32\egg\pandas\tests\data
+copying build\lib.win32-2.7\pandas\tests\data\multiindex_v1.pickle -> build\bdist.win32\egg\pandas\tests\data
+copying build\lib.win32-2.7\pandas\tests\data\tips.csv -> build\bdist.win32\egg\pandas\tests\data
+copying build\lib.win32-2.7\pandas\tests\data\unicode_series.csv -> build\bdist.win32\egg\pandas\tests\data
+copying build\lib.win32-2.7\pandas\tests\test_algos.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_base.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_categorical.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_common.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_compat.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_config.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_expressions.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_format.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_frame.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_generic.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_graphics.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_groupby.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_index.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_indexing.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_internals.py -> build\bdist.win32\egg\pandas\tests
+creating build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_buffer.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_case.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_except.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_format.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_obj.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_pack.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_read_size.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_seq.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_sequnpack.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_subtype.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\test_unpack_raw.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_msgpack\__init__.py -> build\bdist.win32\egg\pandas\tests\test_msgpack
+copying build\lib.win32-2.7\pandas\tests\test_multilevel.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_panel.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_panel4d.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_panelnd.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_reshape.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_rplot.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_series.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_stats.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_strings.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_testing.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\test_tseries.py -> build\bdist.win32\egg\pandas\tests
+copying build\lib.win32-2.7\pandas\tests\__init__.py -> build\bdist.win32\egg\pandas\tests
+creating build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\describe.py -> build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\merge.py -> build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\pivot.py -> build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\plotting.py -> build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\rplot.py -> build\bdist.win32\egg\pandas\tools
+creating build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\cut_data.csv -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\test_merge.py -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\test_pivot.py -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\test_tile.py -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\test_tools.py -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\test_util.py -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tests\__init__.py -> build\bdist.win32\egg\pandas\tools\tests
+copying build\lib.win32-2.7\pandas\tools\tile.py -> build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\util.py -> build\bdist.win32\egg\pandas\tools
+copying build\lib.win32-2.7\pandas\tools\__init__.py -> build\bdist.win32\egg\pandas\tools
+creating build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\api.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\converter.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\frequencies.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\index.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\interval.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\offsets.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\period.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\plotting.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\resample.py -> build\bdist.win32\egg\pandas\tseries
+creating build\bdist.win32\egg\pandas\tseries\tests
+creating build\bdist.win32\egg\pandas\tseries\tests\data
+copying build\lib.win32-2.7\pandas\tseries\tests\data\daterange_073.pickle -> build\bdist.win32\egg\pandas\tseries\tests\data
+copying build\lib.win32-2.7\pandas\tseries\tests\data\frame.pickle -> build\bdist.win32\egg\pandas\tseries\tests\data
+copying build\lib.win32-2.7\pandas\tseries\tests\data\series.pickle -> build\bdist.win32\egg\pandas\tseries\tests\data
+copying build\lib.win32-2.7\pandas\tseries\tests\data\series_daterange0.pickle -> build\bdist.win32\egg\pandas\tseries\tests\data
+copying build\lib.win32-2.7\pandas\tseries\tests\test_converter.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_daterange.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_frequencies.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_offsets.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_period.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_plotting.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_resample.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_timedeltas.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_timeseries.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_timeseries_legacy.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_timezones.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_tslib.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\test_util.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\tests\__init__.py -> build\bdist.win32\egg\pandas\tseries\tests
+copying build\lib.win32-2.7\pandas\tseries\timedeltas.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\tools.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\util.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tseries\__init__.py -> build\bdist.win32\egg\pandas\tseries
+copying build\lib.win32-2.7\pandas\tslib.pyd -> build\bdist.win32\egg\pandas
+creating build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\clipboard.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\decorators.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\misc.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\print_versions.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\terminal.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\testing.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\util\__init__.py -> build\bdist.win32\egg\pandas\util
+copying build\lib.win32-2.7\pandas\version.py -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\_sparse.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\_testing.pyd -> build\bdist.win32\egg\pandas
+copying build\lib.win32-2.7\pandas\__init__.py -> build\bdist.win32\egg\pandas
+byte-compiling build\bdist.win32\egg\pandas\compat\pickle_compat.py to pickle_compat.pyc
+byte-compiling build\bdist.win32\egg\pandas\compat\scipy.py to scipy.pyc
+byte-compiling build\bdist.win32\egg\pandas\compat\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\align.py to align.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\api.py to api.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\common.py to common.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\engines.py to engines.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\eval.py to eval.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\expr.py to expr.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\expressions.py to expressions.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\ops.py to ops.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\pytables.py to pytables.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\tests\test_eval.py to test_eval.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\computation\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\algorithms.py to algorithms.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\api.py to api.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\array.py to array.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\base.py to base.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\categorical.py to categorical.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\common.py to common.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\config.py to config.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\config_init.py to config_init.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\daterange.py to daterange.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\datetools.py to datetools.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\format.py to format.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\frame.py to frame.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\generic.py to generic.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\groupby.py to groupby.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\index.py to index.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\indexing.py to indexing.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\internals.py to internals.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\matrix.py to matrix.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\nanops.py to nanops.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\ops.py to ops.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\panel.py to panel.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\panel4d.py to panel4d.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\panelnd.py to panelnd.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\reshape.py to reshape.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\series.py to series.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\sparse.py to sparse.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\strings.py to strings.pyc
+byte-compiling build\bdist.win32\egg\pandas\core\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\info.py to info.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\api.py to api.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\auth.py to auth.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\clipboard.py to clipboard.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\common.py to common.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\data.py to data.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\date_converters.py to date_converters.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\excel.py to excel.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\ga.py to ga.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\gbq.py to gbq.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\html.py to html.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\json.py to json.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\packers.py to packers.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\parsers.py to parsers.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\pickle.py to pickle.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\pytables.py to pytables.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\sql.py to sql.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\stata.py to stata.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\generate_legacy_pickles.py to generate_legacy_pickles.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_clipboard.py to test_clipboard.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_cparser.py to test_cparser.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_data.py to test_data.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_date_converters.py to test_date_converters.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_excel.py to test_excel.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_ga.py to test_ga.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_gbq.py to test_gbq.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_html.py to test_html.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_json\test_pandas.py to test_pandas.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_json\test_ujson.py to test_ujson.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_json\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_json_norm.py to test_json_norm.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_packers.py to test_packers.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_parsers.py to test_parsers.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_pickle.py to test_pickle.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_pytables.py to test_pytables.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_sql.py to test_sql.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_stata.py to test_stata.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\test_wb.py to test_wb.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\wb.py to wb.pyc
+byte-compiling build\bdist.win32\egg\pandas\io\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\rpy\base.py to base.pyc
+byte-compiling build\bdist.win32\egg\pandas\rpy\common.py to common.pyc
+byte-compiling build\bdist.win32\egg\pandas\rpy\mass.py to mass.pyc
+byte-compiling build\bdist.win32\egg\pandas\rpy\vars.py to vars.pyc
+byte-compiling build\bdist.win32\egg\pandas\rpy\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\sandbox\qtpandas.py to qtpandas.pyc
+byte-compiling build\bdist.win32\egg\pandas\sandbox\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\api.py to api.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\array.py to array.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\frame.py to frame.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\list.py to list.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\panel.py to panel.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\series.py to series.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\tests\test_array.py to test_array.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\tests\test_libsparse.py to test_libsparse.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\tests\test_list.py to test_list.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\tests\test_sparse.py to test_sparse.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\sparse\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\api.py to api.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\common.py to common.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\fama_macbeth.py to fama_macbeth.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\interface.py to interface.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\math.py to math.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\misc.py to misc.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\moments.py to moments.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\ols.py to ols.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\plm.py to plm.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\common.py to common.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\test_fama_macbeth.py to test_fama_macbeth.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\test_math.py to test_math.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\test_moments.py to test_moments.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\test_ols.py to test_ols.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\test_var.py to test_var.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\var.py to var.pyc
+byte-compiling build\bdist.win32\egg\pandas\stats\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_algos.py to test_algos.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_base.py to test_base.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_categorical.py to test_categorical.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_common.py to test_common.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_compat.py to test_compat.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_config.py to test_config.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_expressions.py to test_expressions.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_format.py to test_format.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_frame.py to test_frame.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_generic.py to test_generic.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_graphics.py to test_graphics.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_groupby.py to test_groupby.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_index.py to test_index.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_indexing.py to test_indexing.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_internals.py to test_internals.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_buffer.py to test_buffer.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_case.py to test_case.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_except.py to test_except.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_format.py to test_format.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_obj.py to test_obj.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_pack.py to test_pack.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_read_size.py to test_read_size.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_seq.py to test_seq.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_sequnpack.py to test_sequnpack.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_subtype.py to test_subtype.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\test_unpack_raw.py to test_unpack_raw.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_msgpack\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_multilevel.py to test_multilevel.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_panel.py to test_panel.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_panel4d.py to test_panel4d.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_panelnd.py to test_panelnd.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_reshape.py to test_reshape.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_rplot.py to test_rplot.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_series.py to test_series.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_stats.py to test_stats.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_strings.py to test_strings.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_testing.py to test_testing.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\test_tseries.py to test_tseries.pyc
+byte-compiling build\bdist.win32\egg\pandas\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\describe.py to describe.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\merge.py to merge.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\pivot.py to pivot.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\plotting.py to plotting.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\rplot.py to rplot.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tests\test_merge.py to test_merge.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tests\test_pivot.py to test_pivot.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tests\test_tile.py to test_tile.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tests\test_tools.py to test_tools.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tests\test_util.py to test_util.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\tile.py to tile.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\util.py to util.pyc
+byte-compiling build\bdist.win32\egg\pandas\tools\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\api.py to api.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\converter.py to converter.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\frequencies.py to frequencies.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\index.py to index.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\interval.py to interval.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\offsets.py to offsets.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\period.py to period.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\plotting.py to plotting.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\resample.py to resample.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_converter.py to test_converter.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_daterange.py to test_daterange.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_frequencies.py to test_frequencies.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_offsets.py to test_offsets.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_period.py to test_period.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_plotting.py to test_plotting.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_resample.py to test_resample.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_timedeltas.py to test_timedeltas.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_timeseries.py to test_timeseries.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_timeseries_legacy.py to test_timeseries_legacy.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_timezones.py to test_timezones.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_tslib.py to test_tslib.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\test_util.py to test_util.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\timedeltas.py to timedeltas.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\tools.py to tools.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\util.py to util.pyc
+byte-compiling build\bdist.win32\egg\pandas\tseries\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\clipboard.py to clipboard.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\decorators.py to decorators.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\misc.py to misc.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\print_versions.py to print_versions.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\terminal.py to terminal.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\testing.py to testing.pyc
+byte-compiling build\bdist.win32\egg\pandas\util\__init__.py to __init__.pyc
+byte-compiling build\bdist.win32\egg\pandas\version.py to version.pyc
+byte-compiling build\bdist.win32\egg\pandas\__init__.py to __init__.pyc
+creating stub loader for pandas\index.pyd
+creating stub loader for pandas\algos.pyd
+creating stub loader for pandas\lib.pyd
+creating stub loader for pandas\tslib.pyd
+creating stub loader for pandas\parser.pyd
+creating stub loader for pandas\hashtable.pyd
+creating stub loader for pandas\_sparse.pyd
+creating stub loader for pandas\_testing.pyd
+creating stub loader for pandas\msgpack.pyd
+creating stub loader for pandas\json.pyd
+byte-compiling build\bdist.win32\egg\pandas\index.py to index.pyc
+byte-compiling build\bdist.win32\egg\pandas\algos.py to algos.pyc
+byte-compiling build\bdist.win32\egg\pandas\lib.py to lib.pyc
+byte-compiling build\bdist.win32\egg\pandas\tslib.py to tslib.pyc
+byte-compiling build\bdist.win32\egg\pandas\parser.py to parser.pyc
+byte-compiling build\bdist.win32\egg\pandas\hashtable.py to hashtable.pyc
+byte-compiling build\bdist.win32\egg\pandas\_sparse.py to _sparse.pyc
+byte-compiling build\bdist.win32\egg\pandas\_testing.py to _testing.pyc
+byte-compiling build\bdist.win32\egg\pandas\msgpack.py to msgpack.pyc
+byte-compiling build\bdist.win32\egg\pandas\json.py to json.pyc
+creating build\bdist.win32\egg\EGG-INFO
+copying pandas.egg-info\PKG-INFO -> build\bdist.win32\egg\EGG-INFO
+copying pandas.egg-info\SOURCES.txt -> build\bdist.win32\egg\EGG-INFO
+copying pandas.egg-info\dependency_links.txt -> build\bdist.win32\egg\EGG-INFO
+copying pandas.egg-info\not-zip-safe -> build\bdist.win32\egg\EGG-INFO
+copying pandas.egg-info\requires.txt -> build\bdist.win32\egg\EGG-INFO
+copying pandas.egg-info\top_level.txt -> build\bdist.win32\egg\EGG-INFO
+writing build\bdist.win32\egg\EGG-INFO\native_libs.txt
+creating 'dist\pandas-0.13.1.dev-py2.7-win32.egg' and adding 'build\bdist.win32\egg' to it
+removing 'build\bdist.win32\egg' (and everything under it)
+Processing pandas-0.13.1.dev-py2.7-win32.egg
+creating c:\python27\lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg
+Extracting pandas-0.13.1.dev-py2.7-win32.egg to c:\python27\lib\site-packages
+Adding pandas 0.13.1.dev to easy-install.pth file
+
+Installed c:\python27\lib\site-packages\pandas-0.13.1.dev-py2.7-win32.egg
+Processing dependencies for pandas==0.13.1.dev
+Searching for numpy==1.8.0
+Best match: numpy 1.8.0
+Adding numpy 1.8.0 to easy-install.pth file
+
+Using c:\python27\lib\site-packages
+Searching for pytz==2013.9
+Best match: pytz 2013.9
+Processing pytz-2013.9-py2.7.egg
+pytz 2013.9 is already the active version in easy-install.pth
+
+Using c:\python27\lib\site-packages\pytz-2013.9-py2.7.egg
+Searching for python-dateutil==2.2
+Best match: python-dateutil 2.2
+Adding python-dateutil 2.2 to easy-install.pth file
+
+Using c:\python27\lib\site-packages
+Searching for six==1.4.1
+Best match: six 1.4.1
+Adding six 1.4.1 to easy-install.pth file
+
+Using c:\python27\lib\site-packages
+Finished processing dependencies for pandas==0.13.1.dev

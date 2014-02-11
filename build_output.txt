@@ -1,0 +1,1665 @@
+running build
+running build_py
+creating build
+creating build\lib.win32-2.7
+creating build\lib.win32-2.7\pandas
+copying pandas\info.py -> build\lib.win32-2.7\pandas
+copying pandas\version.py -> build\lib.win32-2.7\pandas
+copying pandas\__init__.py -> build\lib.win32-2.7\pandas
+creating build\lib.win32-2.7\pandas\compat
+copying pandas\compat\pickle_compat.py -> build\lib.win32-2.7\pandas\compat
+copying pandas\compat\scipy.py -> build\lib.win32-2.7\pandas\compat
+copying pandas\compat\__init__.py -> build\lib.win32-2.7\pandas\compat
+creating build\lib.win32-2.7\pandas\computation
+copying pandas\computation\align.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\api.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\common.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\engines.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\eval.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\expr.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\expressions.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\ops.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\pytables.py -> build\lib.win32-2.7\pandas\computation
+copying pandas\computation\__init__.py -> build\lib.win32-2.7\pandas\computation
+creating build\lib.win32-2.7\pandas\computation\tests
+copying pandas\computation\tests\test_eval.py -> build\lib.win32-2.7\pandas\computation\tests
+copying pandas\computation\tests\__init__.py -> build\lib.win32-2.7\pandas\computation\tests
+creating build\lib.win32-2.7\pandas\core
+copying pandas\core\algorithms.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\api.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\array.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\base.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\categorical.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\common.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\config.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\config_init.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\daterange.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\datetools.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\format.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\frame.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\generic.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\groupby.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\index.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\indexing.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\internals.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\matrix.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\nanops.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\ops.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\panel.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\panel4d.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\panelnd.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\reshape.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\series.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\sparse.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\strings.py -> build\lib.win32-2.7\pandas\core
+copying pandas\core\__init__.py -> build\lib.win32-2.7\pandas\core
+creating build\lib.win32-2.7\pandas\io
+copying pandas\io\api.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\auth.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\clipboard.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\common.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\data.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\date_converters.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\excel.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\ga.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\gbq.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\html.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\json.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\packers.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\parsers.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\pickle.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\pytables.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\sql.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\stata.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\wb.py -> build\lib.win32-2.7\pandas\io
+copying pandas\io\__init__.py -> build\lib.win32-2.7\pandas\io
+creating build\lib.win32-2.7\pandas\rpy
+copying pandas\rpy\base.py -> build\lib.win32-2.7\pandas\rpy
+copying pandas\rpy\common.py -> build\lib.win32-2.7\pandas\rpy
+copying pandas\rpy\mass.py -> build\lib.win32-2.7\pandas\rpy
+copying pandas\rpy\vars.py -> build\lib.win32-2.7\pandas\rpy
+copying pandas\rpy\__init__.py -> build\lib.win32-2.7\pandas\rpy
+creating build\lib.win32-2.7\pandas\sandbox
+copying pandas\sandbox\qtpandas.py -> build\lib.win32-2.7\pandas\sandbox
+copying pandas\sandbox\__init__.py -> build\lib.win32-2.7\pandas\sandbox
+creating build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\api.py -> build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\array.py -> build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\frame.py -> build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\list.py -> build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\panel.py -> build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\series.py -> build\lib.win32-2.7\pandas\sparse
+copying pandas\sparse\__init__.py -> build\lib.win32-2.7\pandas\sparse
+creating build\lib.win32-2.7\pandas\sparse\tests
+copying pandas\sparse\tests\test_array.py -> build\lib.win32-2.7\pandas\sparse\tests
+copying pandas\sparse\tests\test_libsparse.py -> build\lib.win32-2.7\pandas\sparse\tests
+copying pandas\sparse\tests\test_list.py -> build\lib.win32-2.7\pandas\sparse\tests
+copying pandas\sparse\tests\test_sparse.py -> build\lib.win32-2.7\pandas\sparse\tests
+copying pandas\sparse\tests\__init__.py -> build\lib.win32-2.7\pandas\sparse\tests
+creating build\lib.win32-2.7\pandas\stats
+copying pandas\stats\api.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\common.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\fama_macbeth.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\interface.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\math.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\misc.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\moments.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\ols.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\plm.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\var.py -> build\lib.win32-2.7\pandas\stats
+copying pandas\stats\__init__.py -> build\lib.win32-2.7\pandas\stats
+creating build\lib.win32-2.7\pandas\util
+copying pandas\util\clipboard.py -> build\lib.win32-2.7\pandas\util
+copying pandas\util\decorators.py -> build\lib.win32-2.7\pandas\util
+copying pandas\util\misc.py -> build\lib.win32-2.7\pandas\util
+copying pandas\util\print_versions.py -> build\lib.win32-2.7\pandas\util
+copying pandas\util\terminal.py -> build\lib.win32-2.7\pandas\util
+copying pandas\util\testing.py -> build\lib.win32-2.7\pandas\util
+copying pandas\util\__init__.py -> build\lib.win32-2.7\pandas\util
+creating build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_algos.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_base.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_categorical.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_common.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_compat.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_config.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_expressions.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_format.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_frame.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_generic.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_graphics.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_groupby.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_index.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_indexing.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_internals.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_multilevel.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_panel.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_panel4d.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_panelnd.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_reshape.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_rplot.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_series.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_stats.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_strings.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_testing.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\test_tseries.py -> build\lib.win32-2.7\pandas\tests
+copying pandas\tests\__init__.py -> build\lib.win32-2.7\pandas\tests
+creating build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_buffer.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_case.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_except.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_format.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_obj.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_pack.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_read_size.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_seq.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_sequnpack.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_subtype.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\test_unpack_raw.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+copying pandas\tests\test_msgpack\__init__.py -> build\lib.win32-2.7\pandas\tests\test_msgpack
+creating build\lib.win32-2.7\pandas\tools
+copying pandas\tools\describe.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\merge.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\pivot.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\plotting.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\rplot.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\tile.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\util.py -> build\lib.win32-2.7\pandas\tools
+copying pandas\tools\__init__.py -> build\lib.win32-2.7\pandas\tools
+creating build\lib.win32-2.7\pandas\tools\tests
+copying pandas\tools\tests\test_merge.py -> build\lib.win32-2.7\pandas\tools\tests
+copying pandas\tools\tests\test_pivot.py -> build\lib.win32-2.7\pandas\tools\tests
+copying pandas\tools\tests\test_tile.py -> build\lib.win32-2.7\pandas\tools\tests
+copying pandas\tools\tests\test_tools.py -> build\lib.win32-2.7\pandas\tools\tests
+copying pandas\tools\tests\test_util.py -> build\lib.win32-2.7\pandas\tools\tests
+copying pandas\tools\tests\__init__.py -> build\lib.win32-2.7\pandas\tools\tests
+creating build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\api.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\converter.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\frequencies.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\index.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\interval.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\offsets.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\period.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\plotting.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\resample.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\timedeltas.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\tools.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\util.py -> build\lib.win32-2.7\pandas\tseries
+copying pandas\tseries\__init__.py -> build\lib.win32-2.7\pandas\tseries
+creating build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_converter.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_daterange.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_frequencies.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_offsets.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_period.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_plotting.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_resample.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_timedeltas.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_timeseries.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_timeseries_legacy.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_timezones.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_tslib.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\test_util.py -> build\lib.win32-2.7\pandas\tseries\tests
+copying pandas\tseries\tests\__init__.py -> build\lib.win32-2.7\pandas\tseries\tests
+creating build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\generate_legacy_pickles.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_clipboard.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_cparser.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_data.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_date_converters.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_excel.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_ga.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_gbq.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_html.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_json_norm.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_packers.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_parsers.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_pickle.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_pytables.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_sql.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_stata.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\test_wb.py -> build\lib.win32-2.7\pandas\io\tests
+copying pandas\io\tests\__init__.py -> build\lib.win32-2.7\pandas\io\tests
+creating build\lib.win32-2.7\pandas\io\tests\test_json
+copying pandas\io\tests\test_json\test_pandas.py -> build\lib.win32-2.7\pandas\io\tests\test_json
+copying pandas\io\tests\test_json\test_ujson.py -> build\lib.win32-2.7\pandas\io\tests\test_json
+copying pandas\io\tests\test_json\__init__.py -> build\lib.win32-2.7\pandas\io\tests\test_json
+creating build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\common.py -> build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\test_fama_macbeth.py -> build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\test_math.py -> build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\test_moments.py -> build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\test_ols.py -> build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\test_var.py -> build\lib.win32-2.7\pandas\stats\tests
+copying pandas\stats\tests\__init__.py -> build\lib.win32-2.7\pandas\stats\tests
+creating build\lib.win32-2.7\pandas\io\tests\data
+creating build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+copying pandas\io\tests\data\legacy_hdf\legacy.h5 -> build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+copying pandas\io\tests\data\legacy_hdf\legacy_0.10.h5 -> build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+copying pandas\io\tests\data\legacy_hdf\legacy_table.h5 -> build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+copying pandas\io\tests\data\legacy_hdf\legacy_table_0.11.h5 -> build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+copying pandas\io\tests\data\legacy_hdf\pytables_native.h5 -> build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+copying pandas\io\tests\data\legacy_hdf\pytables_native2.h5 -> build\lib.win32-2.7\pandas\io\tests\data\legacy_hdf
+creating build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle
+creating build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.10.1
+copying pandas\io\tests\data\legacy_pickle\0.10.1\AMD64_windows_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.10.1
+copying pandas\io\tests\data\legacy_pickle\0.10.1\x86_64_linux_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.10.1
+creating build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0
+copying pandas\io\tests\data\legacy_pickle\0.11.0\0.11.0_x86_64_linux_3.3.0.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0
+copying pandas\io\tests\data\legacy_pickle\0.11.0\x86_64_linux_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0
+copying pandas\io\tests\data\legacy_pickle\0.11.0\x86_64_linux_3.3.0.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.11.0
+creating build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.12.0
+copying pandas\io\tests\data\legacy_pickle\0.12.0\0.12.0_AMD64_windows_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.12.0
+copying pandas\io\tests\data\legacy_pickle\0.12.0\0.12.0_x86_64_linux_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.12.0
+creating build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_AMD64_windows_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_i686_linux_2.6.5.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_i686_linux_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_i686_linux_3.2.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_x86_64_darwin_2.7.5.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_x86_64_linux_2.7.3.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\legacy_pickle\0.13.0\0.13.0_x86_64_linux_3.3.0.pickle -> build\lib.win32-2.7\pandas\io\tests\data\legacy_pickle\0.13.0
+copying pandas\io\tests\data\banklist.csv -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\iris.csv -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata3.csv -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test1.csv -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test2.csv -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\unicode_series.csv -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata1.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata1_encoding.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata1_v13.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata2.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata2_v13.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata3.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata3_v13.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata4.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\stata4_v13.dta -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\gbq_fake_job.txt -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\utf16_ex.txt -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test.xls -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test2.xls -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test3.xls -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test_types.xls -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test.xlsx -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test2.xlsx -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test_types.xlsx -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\test.xlsm -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\salary.table -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\banklist.html -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\macau.html -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\nyse_wsj.html -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\spam.html -> build\lib.win32-2.7\pandas\io\tests\data
+copying pandas\io\tests\data\valid_markup.html -> build\lib.win32-2.7\pandas\io\tests\data
+creating build\lib.win32-2.7\pandas\io\tests\test_json\data
+copying pandas\io\tests\test_json\data\tsframe_iso_v012.json -> build\lib.win32-2.7\pandas\io\tests\test_json\data
+copying pandas\io\tests\test_json\data\tsframe_v012.json -> build\lib.win32-2.7\pandas\io\tests\test_json\data
+creating build\lib.win32-2.7\pandas\tests\data
+copying pandas\tests\data\mindex_073.pickle -> build\lib.win32-2.7\pandas\tests\data
+copying pandas\tests\data\multiindex_v1.pickle -> build\lib.win32-2.7\pandas\tests\data
+copying pandas\tests\data\iris.csv -> build\lib.win32-2.7\pandas\tests\data
+copying pandas\tests\data\tips.csv -> build\lib.win32-2.7\pandas\tests\data
+copying pandas\tests\data\unicode_series.csv -> build\lib.win32-2.7\pandas\tests\data
+copying pandas\tools\tests\cut_data.csv -> build\lib.win32-2.7\pandas\tools\tests
+creating build\lib.win32-2.7\pandas\tseries\tests\data
+copying pandas\tseries\tests\data\daterange_073.pickle -> build\lib.win32-2.7\pandas\tseries\tests\data
+copying pandas\tseries\tests\data\frame.pickle -> build\lib.win32-2.7\pandas\tseries\tests\data
+copying pandas\tseries\tests\data\series.pickle -> build\lib.win32-2.7\pandas\tseries\tests\data
+copying pandas\tseries\tests\data\series_daterange0.pickle -> build\lib.win32-2.7\pandas\tseries\tests\data
+running build_ext
+skipping 'pandas\index.c' Cython extension (up-to-date)
+building 'pandas.index' extension
+creating build\temp.win32-2.7
+creating build\temp.win32-2.7\Release
+creating build\temp.win32-2.7\Release\pandas
+creating build\temp.win32-2.7\Release\pandas\src
+creating build\temp.win32-2.7\Release\pandas\src\datetime
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\index.c -o build\temp.win32-2.7\Release\pandas\index.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\index.c:340:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/klib/khash_python.h:3:0,
+                 from pandas\index.c:344:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_float64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:11:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khfloat64_t, khval_t, 1, kh_float64_hash_func, kh_float64_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:13:1: note: in expansion of macro 'KHASH_MAP_INIT_FLOAT64'
+ KHASH_MAP_INIT_FLOAT64(float64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pymap':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:35:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, khval_t, 1,      \
+  ^
+pandas/src/klib/khash_python.h:38:1: note: in expansion of macro 'KHASH_MAP_INIT_PYOBJECT'
+ KHASH_MAP_INIT_PYOBJECT(pymap, Py_ssize_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pyset':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:41:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, char, 0,     \
+  ^
+pandas/src/klib/khash_python.h:44:1: note: in expansion of macro 'KHASH_SET_INIT_PYOBJECT'
+ KHASH_SET_INIT_PYOBJECT(pyset)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_strbox':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:49:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(strbox, kh_pyobject_t)
+ ^
+pandas\index.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\index.c:15959:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\index.c:15959:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\index.c:15959:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\index.c:15959:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\index.c:16562:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\index.c:16562:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\index.c:16562:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c:16614:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\index.c:16614:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\index.c:16614:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c: In function '__pyx_buffmt_parse_array':
+pandas\index.c:16674:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\index.c:16674:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c: In function '__Pyx_GetBufferAndValidate':
+pandas\index.c:16855:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\index.c:16855:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\index.c:16855:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\index.c:16855:7: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\index.c:16882:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\index.c:16882:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\index.c:16888:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\index.c:16888:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\index.c:16888:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\index.c: In function '__pyx_f_6pandas_5index__bin_search':
+pandas\index.c:7894:13: warning: '__pyx_v_mid' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   __pyx_t_4 = PyInt_FromSsize_t(__pyx_v_mid); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 431; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
+             ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/datetime/np_datetime.c -o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/datetime/np_datetime.c:18:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/datetime/np_datetime.c:10:0:
+C:\Python27\include/datetime.h:188:25: warning: 'PyDateTimeAPI' defined but not used [-Wunused-variable]
+ static PyDateTime_CAPI *PyDateTimeAPI = NULL;
+                         ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/datetime/np_datetime_strings.c -o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime_strings.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/datetime/np_datetime_strings.c:17:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas/src/datetime/np_datetime_strings.c:127:1: warning: 'get_gmtime' defined but not used [-Wunused-function]
+ get_gmtime(NPY_TIME_T *ts, struct tm *tms)
+ ^
+writing build\temp.win32-2.7\Release\pandas\index.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\index.o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime.o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime_strings.o build\temp.win32-2.7\Release\pandas\index.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\index.pyd
+skipping 'pandas\algos.c' Cython extension (up-to-date)
+building 'pandas.algos' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\algos.c -o build\temp.win32-2.7\Release\pandas\algos.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\algos.c:340:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/klib/khash_python.h:3:0,
+                 from pandas\algos.c:354:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_float64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:11:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khfloat64_t, khval_t, 1, kh_float64_hash_func, kh_float64_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:13:1: note: in expansion of macro 'KHASH_MAP_INIT_FLOAT64'
+ KHASH_MAP_INIT_FLOAT64(float64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pymap':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:35:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, khval_t, 1,      \
+  ^
+pandas/src/klib/khash_python.h:38:1: note: in expansion of macro 'KHASH_MAP_INIT_PYOBJECT'
+ KHASH_MAP_INIT_PYOBJECT(pymap, Py_ssize_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pyset':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:41:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, char, 0,     \
+  ^
+pandas/src/klib/khash_python.h:44:1: note: in expansion of macro 'KHASH_SET_INIT_PYOBJECT'
+ KHASH_SET_INIT_PYOBJECT(pyset)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_strbox':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:49:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(strbox, kh_pyobject_t)
+ ^
+pandas\algos.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\algos.c:156873:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\algos.c:156873:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\algos.c:156873:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\algos.c:156873:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\algos.c:157629:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\algos.c:157629:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\algos.c:157629:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c:157681:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\algos.c:157681:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\algos.c:157681:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c: In function '__pyx_buffmt_parse_array':
+pandas\algos.c:157741:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\algos.c:157741:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c: In function '__Pyx_GetBufferAndValidate':
+pandas\algos.c:157922:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\algos.c:157922:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\algos.c:157922:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\algos.c:157922:7: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\algos.c:157939:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\algos.c:157939:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\algos.c:157945:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\algos.c:157945:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\algos.c:157945:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\algos.c: In function '__pyx_pf_6pandas_5algos_452group_ohlc_float32':
+pandas\algos.c:120745:213: warning: '__pyx_v_vclose' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           *__Pyx_BufPtrStrided2d(__pyx_t_5numpy_float32_t *, __pyx_pybuffernd_out.rcbuffer->pybuffer.buf, __pyx_t_28, __pyx_pybuffernd_out.diminfo[0].strides, __pyx_t_29, __pyx_pybuffernd_out.diminfo[1].strides) = __pyx_v_vclose;
+                                                                                                                                                                                                                     ^
+pandas\algos.c:120856:14: warning: '__pyx_v_vlow' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           if (__pyx_t_13) {
+              ^
+pandas\algos.c:120878:14: warning: '__pyx_v_vhigh' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           if (__pyx_t_13) {
+              ^
+pandas\algos.c:120712:213: warning: '__pyx_v_vopen' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           *__Pyx_BufPtrStrided2d(__pyx_t_5numpy_float32_t *, __pyx_pybuffernd_out.rcbuffer->pybuffer.buf, __pyx_t_22, __pyx_pybuffernd_out.diminfo[0].strides, __pyx_t_23, __pyx_pybuffernd_out.diminfo[1].strides) = __pyx_v_vopen;
+                                                                                                                                                                                                                     ^
+pandas\algos.c: In function '__pyx_pf_6pandas_5algos_450group_ohlc_float64':
+pandas\algos.c:119923:213: warning: '__pyx_v_vclose' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           *__Pyx_BufPtrStrided2d(__pyx_t_5numpy_float64_t *, __pyx_pybuffernd_out.rcbuffer->pybuffer.buf, __pyx_t_28, __pyx_pybuffernd_out.diminfo[0].strides, __pyx_t_29, __pyx_pybuffernd_out.diminfo[1].strides) = __pyx_v_vclose;
+                                                                                                                                                                                                                     ^
+pandas\algos.c:120034:14: warning: '__pyx_v_vlow' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           if (__pyx_t_13) {
+              ^
+pandas\algos.c:120056:14: warning: '__pyx_v_vhigh' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           if (__pyx_t_13) {
+              ^
+pandas\algos.c:119890:213: warning: '__pyx_v_vopen' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           *__Pyx_BufPtrStrided2d(__pyx_t_5numpy_float64_t *, __pyx_pybuffernd_out.rcbuffer->pybuffer.buf, __pyx_t_22, __pyx_pybuffernd_out.diminfo[0].strides, __pyx_t_23, __pyx_pybuffernd_out.diminfo[1].strides) = __pyx_v_vopen;
+                                                                                                                                                                                                                     ^
+pandas\algos.c: In function '__pyx_pf_6pandas_5algos_54roll_window':
+pandas\algos.c:1090:73: warning: '__pyx_pybuffernd_tot_wgt.diminfo[0].strides' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define __Pyx_BufPtrStrided1d(type, buf, i0, s0) (type)((char*)buf + i0 * s0)
+                                                                         ^
+pandas\algos.c:26892:21: note: '__pyx_pybuffernd_tot_wgt.diminfo[0].strides' was declared here
+   __Pyx_LocalBuf_ND __pyx_pybuffernd_tot_wgt;
+                     ^
+pandas\algos.c:27326:21: warning: '__pyx_pybuffernd_tot_wgt.diminfo[0].shape' may be used uninitialized in this function [-Wmaybe-uninitialized]
+           } else if (unlikely(__pyx_t_18 >= __pyx_pybuffernd_tot_wgt.diminfo[0].shape)) __pyx_t_7 = 0;
+                     ^
+writing build\temp.win32-2.7\Release\pandas\algos.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\algos.o build\temp.win32-2.7\Release\pandas\algos.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\algos.pyd
+skipping 'pandas\lib.c' Cython extension (up-to-date)
+building 'pandas.lib' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\lib.c -o build\temp.win32-2.7\Release\pandas\lib.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\lib.c:340:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas\lib.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\lib.c:56198:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\lib.c:56198:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\lib.c:56198:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\lib.c:56198:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\lib.c:56579:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\lib.c:56579:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\lib.c:56579:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c:56631:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\lib.c:56631:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\lib.c:56631:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c: In function '__pyx_buffmt_parse_array':
+pandas\lib.c:56691:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\lib.c:56691:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c: In function '__Pyx_GetBufferAndValidate':
+pandas\lib.c:56872:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\lib.c:56872:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\lib.c:56872:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\lib.c:56872:7: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\lib.c:56957:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\lib.c:56957:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\lib.c:56963:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\lib.c:56963:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\lib.c:56963:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\lib.c: In function '__pyx_pw_6pandas_3lib_55maybe_booleans_to_slice':
+pandas\lib.c:10382:15: warning: '__pyx_v_end' may be used uninitialized in this function [-Wmaybe-uninitialized]
+     __pyx_t_7 = PyInt_FromSsize_t(__pyx_v_end); if (unlikely(!__pyx_t_7)) {__pyx_filename = __pyx_f[2]; __pyx_lineno = 577; __pyx_clineno = __LINE__; goto __pyx_L1_error;}
+               ^
+pandas\lib.c:10102:14: note: '__pyx_v_end' was declared here
+   Py_ssize_t __pyx_v_end;
+              ^
+pandas\lib.c: In function '__pyx_pf_6pandas_3lib_152maybe_convert_objects':
+pandas\lib.c:1216:73: warning: '__pyx_pybuffernd_itimedeltas.diminfo[0].strides' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define __Pyx_BufPtrStrided1d(type, buf, i0, s0) (type)((char*)buf + i0 * s0)
+                                                                         ^
+pandas\lib.c:37612:21: note: '__pyx_pybuffernd_itimedeltas.diminfo[0].strides' was declared here
+   __Pyx_LocalBuf_ND __pyx_pybuffernd_itimedeltas;
+                     ^
+pandas\lib.c:38490:19: warning: '__pyx_pybuffernd_itimedeltas.diminfo[0].shape' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         } else if (unlikely(__pyx_t_30 >= __pyx_pybuffernd_itimedeltas.diminfo[0].shape)) __pyx_t_7 = 0;
+                   ^
+pandas\lib.c:1216:73: warning: '__pyx_pybuffernd_idatetimes.diminfo[0].strides' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define __Pyx_BufPtrStrided1d(type, buf, i0, s0) (type)((char*)buf + i0 * s0)
+                                                                         ^
+pandas\lib.c:37608:21: note: '__pyx_pybuffernd_idatetimes.diminfo[0].strides' was declared here
+   __Pyx_LocalBuf_ND __pyx_pybuffernd_idatetimes;
+                     ^
+pandas\lib.c:38413:19: warning: '__pyx_pybuffernd_idatetimes.diminfo[0].shape' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         } else if (unlikely(__pyx_t_29 >= __pyx_pybuffernd_idatetimes.diminfo[0].shape)) __pyx_t_7 = 0;
+                   ^
+In file included from pandas\lib.c:352:0:
+pandas/src/parse_helper.h: In function 'to_double':
+pandas/src/parse_helper.h:13:29: warning: 'p_end' may be used uninitialized in this function [-Wmaybe-uninitialized]
+     return (errno == 0) && (!*p_end);
+                             ^
+writing build\temp.win32-2.7\Release\pandas\lib.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\lib.o build\temp.win32-2.7\Release\pandas\lib.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\lib.pyd
+skipping 'pandas\tslib.c' Cython extension (up-to-date)
+building 'pandas.tslib' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\tslib.c -o build\temp.win32-2.7\Release\pandas\tslib.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\tslib.c:340:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/klib/khash_python.h:3:0,
+                 from pandas\tslib.c:351:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_float64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:11:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khfloat64_t, khval_t, 1, kh_float64_hash_func, kh_float64_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:13:1: note: in expansion of macro 'KHASH_MAP_INIT_FLOAT64'
+ KHASH_MAP_INIT_FLOAT64(float64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pymap':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:35:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, khval_t, 1,      \
+  ^
+pandas/src/klib/khash_python.h:38:1: note: in expansion of macro 'KHASH_MAP_INIT_PYOBJECT'
+ KHASH_MAP_INIT_PYOBJECT(pymap, Py_ssize_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pyset':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:41:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, char, 0,     \
+  ^
+pandas/src/klib/khash_python.h:44:1: note: in expansion of macro 'KHASH_SET_INIT_PYOBJECT'
+ KHASH_SET_INIT_PYOBJECT(pyset)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_strbox':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:49:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(strbox, kh_pyobject_t)
+ ^
+pandas\tslib.c: In function '__pyx_f_6pandas_5tslib__check_dts_bounds':
+pandas\tslib.c:15780:5: warning: implicit declaration of function 'cmp_pandas_datetimestruct' [-Wimplicit-function-declaration]
+     __pyx_t_2 = ((cmp_pandas_datetimestruct(__pyx_v_dts, (&__pyx_v_6pandas_5tslib__NS_MIN_DTS)) == -1) != 0);
+     ^
+pandas\tslib.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\tslib.c:58169:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\tslib.c:58169:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\tslib.c:58169:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\tslib.c:58169:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\tslib.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\tslib.c:58433:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\tslib.c:58433:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\tslib.c:58433:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\tslib.c:58485:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\tslib.c:58485:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\tslib.c:58485:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\tslib.c: In function '__pyx_buffmt_parse_array':
+pandas\tslib.c:58545:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\tslib.c:58545:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\tslib.c: In function '__Pyx_GetBufferAndValidate':
+pandas\tslib.c:58726:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\tslib.c:58726:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\tslib.c:58726:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\tslib.c:58726:7: warning: too many arguments for format [-Wformat-extra-args]
+pandas\tslib.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\tslib.c:59567:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\tslib.c:59567:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\tslib.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\tslib.c:59573:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\tslib.c:59573:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\tslib.c:59573:18: warning: too many arguments for format [-Wformat-extra-args]
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ufuncobject.h:327:0,
+                 from pandas\tslib.c:341:
+pandas\tslib.c: At top level:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/__ufunc_api.h:241:1: warning: '_import_umath' defined but not used [-Wunused-function]
+ _import_umath(void)
+ ^
+pandas\tslib.c:9624:18: warning: '__pyx_f_6pandas_5tslib__tz_format' defined but not used [-Wunused-function]
+ static PyObject *__pyx_f_6pandas_5tslib__tz_format(PyObject *__pyx_v_obj, PyObject *__pyx_v_zone) {
+                  ^
+pandas\tslib.c: In function '__pyx_pf_6pandas_5tslib_56tz_localize_to_utc':
+pandas\tslib.c:29040:21: warning: '__pyx_pybuffernd_dst_hours.diminfo[0].strides' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   __Pyx_LocalBuf_ND __pyx_pybuffernd_dst_hours;
+                     ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/datetime/np_datetime.c -o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/datetime/np_datetime.c:18:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/datetime/np_datetime.c:10:0:
+C:\Python27\include/datetime.h:188:25: warning: 'PyDateTimeAPI' defined but not used [-Wunused-variable]
+ static PyDateTime_CAPI *PyDateTimeAPI = NULL;
+                         ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/datetime/np_datetime_strings.c -o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime_strings.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/datetime/np_datetime_strings.c:17:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas/src/datetime/np_datetime_strings.c:127:1: warning: 'get_gmtime' defined but not used [-Wunused-function]
+ get_gmtime(NPY_TIME_T *ts, struct tm *tms)
+ ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/period.c -o build\temp.win32-2.7\Release\pandas\src\period.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from pandas/src/period.h:12,
+                 from pandas/src/period.c:1:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas/src/period.c:33:20: warning: 'NULL_AF_INFO' defined but not used [-Wunused-variable]
+ static asfreq_info NULL_AF_INFO;
+                    ^
+writing build\temp.win32-2.7\Release\pandas\tslib.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\tslib.o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime.o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime_strings.o build\temp.win32-2.7\Release\pandas\src\period.o build\temp.win32-2.7\Release\pandas\tslib.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\tslib.pyd
+skipping 'pandas\parser.c' Cython extension (up-to-date)
+building 'pandas.parser' extension
+creating build\temp.win32-2.7\Release\pandas\src\parser
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\parser.c -o build\temp.win32-2.7\Release\pandas\parser.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\parser.c:341:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/klib/khash_python.h:3:0,
+                 from pandas\parser.c:344:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_float64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:11:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khfloat64_t, khval_t, 1, kh_float64_hash_func, kh_float64_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:13:1: note: in expansion of macro 'KHASH_MAP_INIT_FLOAT64'
+ KHASH_MAP_INIT_FLOAT64(float64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pymap':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:35:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, khval_t, 1,      \
+  ^
+pandas/src/klib/khash_python.h:38:1: note: in expansion of macro 'KHASH_MAP_INIT_PYOBJECT'
+ KHASH_MAP_INIT_PYOBJECT(pymap, Py_ssize_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pyset':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:41:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, char, 0,     \
+  ^
+pandas/src/klib/khash_python.h:44:1: note: in expansion of macro 'KHASH_SET_INIT_PYOBJECT'
+ KHASH_SET_INIT_PYOBJECT(pyset)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_strbox':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:49:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(strbox, kh_pyobject_t)
+ ^
+pandas\parser.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\parser.c:28451:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\parser.c:28451:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\parser.c:28451:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\parser.c:28451:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\parser.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\parser.c:28759:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\parser.c:28759:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\parser.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\parser.c:28765:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\parser.c:28765:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\parser.c:28765:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\parser.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\parser.c:29504:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\parser.c:29504:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\parser.c:29504:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\parser.c:29556:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\parser.c:29556:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\parser.c:29556:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\parser.c: In function '__pyx_buffmt_parse_array':
+pandas\parser.c:29616:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\parser.c:29616:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\parser.c: In function '__Pyx_GetBufferAndValidate':
+pandas\parser.c:29797:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\parser.c:29797:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\parser.c:29797:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\parser.c:29797:7: warning: too many arguments for format [-Wformat-extra-args]
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ufuncobject.h:327:0,
+                 from pandas\parser.c:342:
+pandas\parser.c: At top level:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/__ufunc_api.h:241:1: warning: '_import_umath' defined but not used [-Wunused-function]
+ _import_umath(void)
+ ^
+pandas\parser.c:19068:18: warning: '__pyx_f_6pandas_6parser__get_na_mask' defined but not used [-Wunused-function]
+ static PyObject *__pyx_f_6pandas_6parser__get_na_mask(parser_t *__pyx_v_parser, int __pyx_v_col, int __pyx_v_line_start, int __pyx_v_line_end, kh_str_t *__pyx_v_na_hashset) {
+                  ^
+pandas\parser.c: In function '__pyx_f_6pandas_6parser_10TextReader__get_header':
+pandas\parser.c:6731:67: warning: '__pyx_v_data_line' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   __pyx_t_16 = ((__pyx_v_self->parser->lines < (__pyx_v_data_line + 1)) != 0);
+                                                                   ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/parser/tokenizer.c -o build\temp.win32-2.7\Release\pandas\src\parser\tokenizer.o
+In file included from pandas/src/parser/tokenizer.h:35:0,
+                 from pandas/src/parser/tokenizer.c:20:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+pandas/src/parser/tokenizer.c: In function 'parser_buffer_bytes':
+pandas/src/parser/tokenizer.c:562:11: warning: unused variable 'src' [-Wunused-variable]
+     void *src = self->source;
+           ^
+pandas/src/parser/tokenizer.c: In function 'to_longlong_thousands':
+pandas/src/parser/tokenizer.c:1724:11: warning: unused variable 'p_end' [-Wunused-variable]
+     char *p_end;
+           ^
+pandas/src/parser/tokenizer.c: In function 'xstrtod':
+pandas/src/parser/tokenizer.c:1899:16: warning: suggest parentheses around comparison in operand of '&' [-Wparentheses]
+     p += (tsep != '\0' & *p == tsep);
+                ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/parser/io.c -o build\temp.win32-2.7\Release\pandas\src\parser\io.o
+In file included from pandas/src/parser/tokenizer.h:35:0,
+                 from pandas/src/parser/io.h:2,
+                 from pandas/src/parser/io.c:1:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+writing build\temp.win32-2.7\Release\pandas\parser.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\parser.o build\temp.win32-2.7\Release\pandas\src\parser\tokenizer.o build\temp.win32-2.7\Release\pandas\src\parser\io.o build\temp.win32-2.7\Release\pandas\parser.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\parser.pyd
+skipping 'pandas\hashtable.c' Cython extension (up-to-date)
+building 'pandas.hashtable' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\hashtable.c -o build\temp.win32-2.7\Release\pandas\hashtable.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\hashtable.c:341:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/klib/khash_python.h:3:0,
+                 from pandas\hashtable.c:343:
+pandas/src/klib/khash.h: In function 'kh_del_str':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash.h:573:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(str, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int32':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:527:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint32_t, khval_t, 1, kh_int_hash_func, kh_int_hash_equal)
+  ^
+pandas/src/klib/khash.h:574:1: note: in expansion of macro 'KHASH_MAP_INIT_INT'
+ KHASH_MAP_INIT_INT(int32, size_t)
+ ^
+pandas/src/klib/khash.h: In function 'kh_del_int64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:548:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khint64_t, khval_t, 1, kh_int64_hash_func, kh_int64_hash_equal)
+  ^
+pandas/src/klib/khash.h:575:1: note: in expansion of macro 'KHASH_MAP_INIT_INT64'
+ KHASH_MAP_INIT_INT64(int64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_float64':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:11:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, khfloat64_t, khval_t, 1, kh_float64_hash_func, kh_float64_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:13:1: note: in expansion of macro 'KHASH_MAP_INIT_FLOAT64'
+ KHASH_MAP_INIT_FLOAT64(float64, size_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pymap':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:35:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, khval_t, 1,      \
+  ^
+pandas/src/klib/khash_python.h:38:1: note: in expansion of macro 'KHASH_MAP_INIT_PYOBJECT'
+ KHASH_MAP_INIT_PYOBJECT(pymap, Py_ssize_t)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_pyset':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash_python.h:41:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_pyobject_t, char, 0,     \
+  ^
+pandas/src/klib/khash_python.h:44:1: note: in expansion of macro 'KHASH_SET_INIT_PYOBJECT'
+ KHASH_SET_INIT_PYOBJECT(pyset)
+ ^
+pandas/src/klib/khash_python.h: In function 'kh_del_strbox':
+pandas/src/klib/khash.h:155:38: warning: statement with no effect [-Wunused-value]
+ #define __ac_set_isdel_true(flag, i) (0)
+                                      ^
+pandas/src/klib/khash.h:321:4: note: in expansion of macro '__ac_set_isdel_true'
+    __ac_set_isdel_true(h->flags, x);       \
+    ^
+pandas/src/klib/khash.h:327:2: note: in expansion of macro 'KHASH_INIT2'
+  KHASH_INIT2(name, static PANDAS_INLINE, khkey_t, khval_t, kh_is_map, __hash_func, __hash_equal)
+  ^
+pandas/src/klib/khash.h:565:2: note: in expansion of macro 'KHASH_INIT'
+  KHASH_INIT(name, kh_cstr_t, khval_t, 1, kh_str_hash_func, kh_str_hash_equal)
+  ^
+pandas/src/klib/khash_python.h:49:1: note: in expansion of macro 'KHASH_MAP_INIT_STR'
+ KHASH_MAP_INIT_STR(strbox, kh_pyobject_t)
+ ^
+pandas\hashtable.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\hashtable.c:22188:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\hashtable.c:22188:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\hashtable.c:22188:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\hashtable.c:22240:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\hashtable.c:22240:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\hashtable.c:22240:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\hashtable.c: In function '__pyx_buffmt_parse_array':
+pandas\hashtable.c:22300:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\hashtable.c:22300:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\hashtable.c: In function '__Pyx_GetBufferAndValidate':
+pandas\hashtable.c:22481:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\hashtable.c:22481:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\hashtable.c:22481:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\hashtable.c:22481:7: warning: too many arguments for format [-Wformat-extra-args]
+pandas\hashtable.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\hashtable.c:22637:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\hashtable.c:22637:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\hashtable.c:22637:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\hashtable.c:22637:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\hashtable.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\hashtable.c:23227:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\hashtable.c:23227:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\hashtable.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\hashtable.c:23233:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\hashtable.c:23233:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\hashtable.c:23233:18: warning: too many arguments for format [-Wformat-extra-args]
+writing build\temp.win32-2.7\Release\pandas\hashtable.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\hashtable.o build\temp.win32-2.7\Release\pandas\hashtable.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\hashtable.pyd
+skipping 'pandas\src\sparse.c' Cython extension (up-to-date)
+building 'pandas._sparse' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\src\sparse.c -o build\temp.win32-2.7\Release\pandas\src\sparse.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\src\sparse.c:340:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas\src\sparse.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\src\sparse.c:22058:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\src\sparse.c:22058:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\src\sparse.c:22058:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\src\sparse.c:22058:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\src\sparse.c: In function '__Pyx_RaiseTooManyValuesError':
+pandas\src\sparse.c:22441:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                  ^
+pandas\src\sparse.c:22441:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\src\sparse.c: In function '__Pyx_RaiseNeedMoreValuesError':
+pandas\src\sparse.c:22447:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                  ^
+pandas\src\sparse.c:22447:18: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\src\sparse.c:22447:18: warning: too many arguments for format [-Wformat-extra-args]
+pandas\src\sparse.c: In function '__Pyx_BufFmt_ProcessTypeChunk':
+pandas\src\sparse.c:22730:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+                          ctx->head->field->type->arraysize[0], ctx->enc_count);
+                          ^
+pandas\src\sparse.c:22730:26: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\src\sparse.c:22730:26: warning: too many arguments for format [-Wformat-extra-args]
+pandas\src\sparse.c:22782:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+                    (Py_ssize_t)ctx->fmt_offset, (Py_ssize_t)offset);
+                    ^
+pandas\src\sparse.c:22782:20: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\src\sparse.c:22782:20: warning: too many arguments for format [-Wformat-extra-args]
+pandas\src\sparse.c: In function '__pyx_buffmt_parse_array':
+pandas\src\sparse.c:22842:25: warning: unknown conversion type character 'z' in format [-Wformat=]
+                         ctx->head->field->type->arraysize[i], number);
+                         ^
+pandas\src\sparse.c:22842:25: warning: too many arguments for format [-Wformat-extra-args]
+pandas\src\sparse.c: In function '__Pyx_GetBufferAndValidate':
+pandas\src\sparse.c:23023:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+       dtype->name, (Py_ssize_t)dtype->size, (dtype->size > 1) ? "s" : "");
+       ^
+pandas\src\sparse.c:23023:7: warning: format '%s' expects argument of type 'char *', but argument 3 has type 'Py_ssize_t' [-Wformat=]
+pandas\src\sparse.c:23023:7: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\src\sparse.c:23023:7: warning: too many arguments for format [-Wformat-extra-args]
+writing build\temp.win32-2.7\Release\pandas\src\_sparse.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\src\sparse.o build\temp.win32-2.7\Release\pandas\src\_sparse.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\_sparse.pyd
+skipping 'pandas\src\testing.c' Cython extension (up-to-date)
+building 'pandas._testing' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\src\testing.c -o build\temp.win32-2.7\Release\pandas\src\testing.o
+pandas\src\testing.c: In function '__Pyx_RaiseArgtupleInvalid':
+pandas\src\testing.c:3261:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                  ^
+pandas\src\testing.c:3261:18: warning: format '%s' expects argument of type 'char *', but argument 5 has type 'Py_ssize_t' [-Wformat=]
+pandas\src\testing.c:3261:18: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\src\testing.c:3261:18: warning: too many arguments for format [-Wformat-extra-args]
+writing build\temp.win32-2.7\Release\pandas\src\_testing.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\src\testing.o build\temp.win32-2.7\Release\pandas\src\_testing.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\_testing.pyd
+skipping 'pandas\msgpack.cpp' Cython extension (up-to-date)
+building 'pandas.msgpack' extension
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -D__LITTLE_ENDIAN__=1 -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas\msgpack.cpp -o build\temp.win32-2.7\Release\pandas\msgpack.o
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\msgpack.cpp:342:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:13:79: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+                          "#defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION")
+                                                                               ^
+pandas\msgpack.cpp: In function 'PyObject* __pyx_pf_6pandas_7msgpack_4unpackb(PyObject*, PyObject*, PyObject*, PyObject*, int, PyObject*, PyObject*, PyObject*)':
+pandas\msgpack.cpp:5520:33: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     __pyx_t_2 = ((__pyx_v_off < __pyx_v_buf_len) != 0);
+                                 ^
+pandas\msgpack.cpp: In function 'PyObject* __pyx_f_6pandas_7msgpack_8Unpacker_read_from_file(__pyx_obj_6pandas_7msgpack_Unpacker*)':
+pandas\msgpack.cpp:7068:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if (((__pyx_t_1 < __pyx_t_2) != 0)) {
+                     ^
+pandas\msgpack.cpp: In function 'PyObject* __pyx_pf_6pandas_7msgpack_8Unpacker_8read_bytes(__pyx_obj_6pandas_7msgpack_Unpacker*, Py_ssize_t)':
+pandas\msgpack.cpp:7507:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if (((__pyx_t_1 < __pyx_t_2) != 0)) {
+                     ^
+pandas\msgpack.cpp: In function 'void __Pyx_RaiseArgtupleInvalid(const char*, int, Py_ssize_t, Py_ssize_t, Py_ssize_t)':
+pandas\msgpack.cpp:11489:59: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  (num_expected == 1) ? "" : "s", num_found);
+                                                           ^
+pandas\msgpack.cpp:11489:59: warning: format '%s' expects argument of type 'char*', but argument 5 has type 'Py_ssize_t {aka int}' [-Wformat=]
+pandas\msgpack.cpp:11489:59: warning: unknown conversion type character 'z' in format [-Wformat=]
+pandas\msgpack.cpp:11489:59: warning: too many arguments for format [-Wformat-extra-args]
+pandas\msgpack.cpp: In function 'void __Pyx_RaiseTooManyValuesError(Py_ssize_t)':
+pandas\msgpack.cpp:11906:94: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  "too many values to unpack (expected %" CYTHON_FORMAT_SSIZE_T "d)", expected);
+                                                                                              ^
+pandas\msgpack.cpp:11906:94: warning: too many arguments for format [-Wformat-extra-args]
+pandas\msgpack.cpp: In function 'void __Pyx_RaiseNeedMoreValuesError(Py_ssize_t)':
+pandas\msgpack.cpp:11912:48: warning: unknown conversion type character 'z' in format [-Wformat=]
+                  index, (index == 1) ? "" : "s");
+                                                ^
+pandas\msgpack.cpp:11912:48: warning: format '%s' expects argument of type 'char*', but argument 3 has type 'Py_ssize_t {aka int}' [-Wformat=]
+pandas\msgpack.cpp:11912:48: warning: too many arguments for format [-Wformat-extra-args]
+In file included from pandas/src/msgpack/unpack.h:235:0,
+                 from pandas\msgpack.cpp:344:
+pandas/src/msgpack/unpack_template.h: In function 'int template_execute(template_context*, const char*, size_t, size_t*) [with bool construct = false; size_t = unsigned int]':
+pandas/src/msgpack/unpack_template.h:357:3: warning: 'obj' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   c->map_key = obj;
+   ^
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:26:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas\msgpack.cpp:342:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/__multiarray_api.h: At global scope:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/__multiarray_api.h:1629:1: warning: 'int _import_array()' defined but not used [-Wunused-function]
+ _import_array(void)
+ ^
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ufuncobject.h:327:0,
+                 from pandas\msgpack.cpp:343:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/__ufunc_api.h:241:1: warning: 'int _import_umath()' defined but not used [-Wunused-function]
+ _import_umath(void)
+ ^
+writing build\temp.win32-2.7\Release\pandas\msgpack.def
+C:\MinGW\bin\g++.exe -shared -s build\temp.win32-2.7\Release\pandas\msgpack.o build\temp.win32-2.7\Release\pandas\msgpack.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\msgpack.pyd
+building 'pandas.json' extension
+creating build\temp.win32-2.7\Release\pandas\src\ujson
+creating build\temp.win32-2.7\Release\pandas\src\ujson\python
+creating build\temp.win32-2.7\Release\pandas\src\ujson\lib
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/ujson/python/ujson.c -o build\temp.win32-2.7\Release\pandas\src\ujson\python\ujson.o -D_GNU_SOURCE
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/ujson/python/objToJSON.c -o build\temp.win32-2.7\Release\pandas\src\ujson\python\objtojson.o -D_GNU_SOURCE
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/ujson/python/objToJSON.c:40:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas/src/ujson/python/objToJSON.c: In function 'NpyArr_encodeLabels':
+pandas/src/ujson/python/objToJSON.c:1178:20: warning: unused variable 'labelsTmp' [-Wunused-variable]
+     PyArrayObject* labelsTmp = NULL;
+                    ^
+pandas/src/ujson/python/objToJSON.c: In function 'Object_beginTypeContext':
+pandas/src/ujson/python/objToJSON.c:1765:5: warning: implicit declaration of function 'encode' [-Wimplicit-function-declaration]
+     encode (defaultObj, enc, NULL, 0);
+     ^
+pandas/src/ujson/python/objToJSON.c: At top level:
+pandas/src/ujson/python/objToJSON.c:227:14: warning: 'PyIntToINT64' defined but not used [-Wunused-function]
+ static void *PyIntToINT64(JSOBJ _obj, JSONTypeContext *tc, void *outValue, size_t *_outLen)
+              ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/ujson/python/JSONtoObj.c -o build\temp.win32-2.7\Release\pandas\src\ujson\python\jsontoobj.o -D_GNU_SOURCE
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/ujson/python/JSONtoObj.c:41:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/ujson/lib/ultrajsonenc.c -o build\temp.win32-2.7\Release\pandas\src\ujson\lib\ultrajsonenc.o -D_GNU_SOURCE
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/ujson/lib/ultrajsondec.c -o build\temp.win32-2.7\Release\pandas\src\ujson\lib\ultrajsondec.o -D_GNU_SOURCE
+pandas/src/ujson/lib/ultrajsondec.c:79:13: warning: 'ClearError' defined but not used [-Wunused-function]
+ static void ClearError( struct DecoderState *ds)
+             ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/datetime/np_datetime.c -o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime.o -D_GNU_SOURCE
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/datetime/np_datetime.c:18:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+In file included from pandas/src/datetime/np_datetime.c:10:0:
+C:\Python27\include/datetime.h:188:25: warning: 'PyDateTimeAPI' defined but not used [-Wunused-variable]
+ static PyDateTime_CAPI *PyDateTimeAPI = NULL;
+                         ^
+C:\MinGW\bin\gcc.exe -mdll -O -Wall -Ipandas/src/ujson/python -Ipandas/src/ujson/lib -Ipandas/src/datetime -Ipandas/src/klib -Ipandas/src -IC:\Python27\lib\site-packages\numpy\core\include -IC:\Python27\include -IC:\Python27\PC -c pandas/src/datetime/np_datetime_strings.c -o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime_strings.o -D_GNU_SOURCE
+In file included from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarraytypes.h:1760:0,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/ndarrayobject.h:17,
+                 from C:\Python27\lib\site-packages\numpy\core\include/numpy/arrayobject.h:4,
+                 from pandas/src/datetime/np_datetime_strings.c:17:
+C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h:12:9: note: #pragma message: C:\Python27\lib\site-packages\numpy\core\include/numpy/npy_1_7_deprecated_api.h(12) : Warning Msg: Using deprecated NumPy API, disable it by #defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+ #pragma message(_WARN___LOC__"Using deprecated NumPy API, disable it by " \
+         ^
+pandas/src/datetime/np_datetime_strings.c:127:1: warning: 'get_gmtime' defined but not used [-Wunused-function]
+ get_gmtime(NPY_TIME_T *ts, struct tm *tms)
+ ^
+writing build\temp.win32-2.7\Release\pandas\src\ujson\python\json.def
+C:\MinGW\bin\gcc.exe -shared -s build\temp.win32-2.7\Release\pandas\src\ujson\python\ujson.o build\temp.win32-2.7\Release\pandas\src\ujson\python\objtojson.o build\temp.win32-2.7\Release\pandas\src\ujson\python\jsontoobj.o build\temp.win32-2.7\Release\pandas\src\ujson\lib\ultrajsonenc.o build\temp.win32-2.7\Release\pandas\src\ujson\lib\ultrajsondec.o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime.o build\temp.win32-2.7\Release\pandas\src\datetime\np_datetime_strings.o build\temp.win32-2.7\Release\pandas\src\ujson\python\json.def -LC:\Python27\libs -LC:\Python27\PCbuild -lpython27 -lmsvcr90 -o build\lib.win32-2.7\pandas\json.pyd
+setup.py:220: UserWarning: WARNING: Couldn't get git revision, using existing pandas/version.py
+  warnings.warn("WARNING: Couldn't get git revision, using existing pandas/version.py")
